@@ -1,0 +1,16 @@
+Flask
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+regex
+mlxtend
+sklearn
+scipy
+jupyter_dash
+dash
+dash_daq
+dash_bootstrap_components
+plotly
+wordcloud

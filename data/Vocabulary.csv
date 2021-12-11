@@ -1,0 +1,15 @@
+﻿Term,Definition
+Number of Articles,Total number of articles in the dataset
+Number of Keywords,The total number of keywords mentioned in an article's keyword section
+Year,The year in which the article was first published
+Number of Unique Keywords,The total number of unique keywords from the keyword section across all articles
+Abstract Length,The length of an article's abstract
+Topic,The topics identified by time-biased clustering model
+Topic Id,Unique identification number for each topic
+Topic Terms,Refer to the terms in each topic. Every topic has 20 terms associated to it
+Topic Timeline,The time period during which the articles related to the topics were published
+Article Percentage,Percentage of articles related to a given topic
+Bias Amount,A time-biased score that is used to determine the amount of clusters that should be used to convey trending topics
+Trend Score,The trend score is computed by dividing a particular topic's silhouette score by the standard deviation of the year for a specific timeline pertaining to that topic
+Silhouette Score,The silhouette score represents the distance between each point in a topic and the points in nearby topics.  A high silhouette score suggests that a sample adequately resembles the nearby terms inside a topic 
+Bias Average Standard Deviation of Year,"The standard deviation depicts the distribution of articles across years; the lower the standard deviation, the more localized a topic's structure "

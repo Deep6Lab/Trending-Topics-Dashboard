@@ -1,0 +1,4125 @@
+Keyword,Frequency,Timeline
+corpor govern,152,1994-2020
+liquid,88,"1995-1998, 2000-2017, 2019"
+capit structur,80,"1994-1996, 1998-2020"
+asset pric,74,"1993-2001, 2003-2020"
+mutual fund,74,"1995-2005, 2007-2020"
+market effici,61,"1995-1998, 2000-2016, 2018-2019"
+merger and acquisit,55,"1997, 2001-2005, 2007-2009, 2011-2019"
+execut compen,55,"1995, 1997, 1999-2003, 2005-2014, 2016-2020"
+bank,52,"1994-1998, 2001, 2003-2005, 2007-2009, 2011-2019"
+initi public off,46,"1993-1997, 1999-2003, 2005-2010, 2012-2014, 2016, 2019"
+invest,46,"1996, 1998-2001, 2003-2009, 2011-2013, 2015-2020"
+return predict,45,"1999, 2001-2009, 2011-2015, 2017-2020"
+hedg fund,44,"2002, 2004-2005, 2009-2019"
+institut investor,44,"1995-1997, 1999, 2002-2005, 2007-2015, 2017-2019"
+merger,41,"1994-1996, 1998-2014, 2017, 2019"
+ventur capit,39,"1994, 1998-2000, 2002-2011, 2013-2020"
+ipo,36,"1993-1994, 1996-1998, 2001-2008, 2011, 2013, 2015-2016"
+financi crisi,36,"2000, 2010-2016, 2018-2020"
+acquisit,33,"1994-1996, 1999-2006, 2008, 2010-2016, 2018-2019"
+ownership structur,33,"1996-2000, 2002-2004, 2006-2008, 2011-2013, 2016-2017"
+board of director,32,"1994, 1996-1999, 2001, 2003-2004, 2006, 2008-2014, 2017-2018"
+leverag,29,"1994-1997, 2001, 2006-2007, 2009-2013, 2015-2017, 2019"
+asymmetr inform,29,"1995, 2001-2002, 2004-2006, 2009-2012, 2014-2017, 2019"
+volatil,29,"1993, 1995-1998, 2001, 2006, 2010-2012, 2014-2016, 2018-2019"
+takeov,27,"1995-1998, 2000-2001, 2003-2006, 2008, 2011, 2013, 2017, 2019"
+innov,27,"2008, 2012-2015, 2017-2020"
+anomali,27,"1995, 1998-2001, 2004, 2012, 2014-2020"
+bankruptci,26,"1994, 1996, 1998-1999, 2003, 2007-2008, 2011-2012, 2015-2016, 2018-2019"
+financi distress,26,"1994-1998, 2001-2002, 2007-2014, 2016-2017"
+privat equ,25,"1999, 2005, 2008-2011, 2013-2019"
+regul,25,"1994, 1998-2002, 2004-2006, 2009-2012, 2014-2018"
+dividend,25,"1994, 1996-2001, 2004, 2006, 2008-2009, 2011, 2013, 2015, 2019"
+market tim,24,"1996, 1999, 2001-2002, 2006-2008, 2010-2013, 2015-2016, 2019"
+monitor,23,"1993, 1996, 1998-1999, 2007-2008, 2010-2011, 2013-2015, 2017-2020"
+portfolio cho,23,"1999, 2001, 2003-2007, 2009-2012, 2014-2016, 2019-2020"
+inform asymmetri,23,"1999, 2002-2003, 2007-2011, 2013-2017"
+market microstructur,23,"1996-1998, 2000, 2002-2004, 2006, 2008, 2010-2011, 2013, 2015-2016, 2018-2019"
+momentum,23,"1995, 2000, 2003-2004, 2006-2007, 2011-2013, 2015-2018, 2020"
+hedg,23,"1994, 2001-2014, 2016, 2018"
+predict,22,"1998, 2002-2003, 2006, 2009, 2011-2013, 2015-2016, 2018-2019"
+payout polici,22,"2000-2002, 2004, 2006-2008, 2011, 2014-2015"
+term structur,22,"1996, 2001, 2003-2010, 2012-2013, 2016-2019"
+option,22,"1995, 1997-1998, 2000, 2004, 2006, 2009-2012, 2014, 2016, 2018-2019"
+underpr,21,"1993, 1995-1997, 2001-2008, 2016"
+equiti premium,21,"2004, 2006, 2009-2015, 2017-2019"
+incent,21,"1995, 1997-2002, 2005, 2010, 2012, 2014, 2016-2018"
+perform,20,"1995, 2000, 2003, 2005, 2009, 2011-2014, 2016-2018, 2020"
+behavior financ,20,"1998, 2002-2003, 2005-2007, 2009-2010, 2012-2013, 2015-2016, 2018-2019"
+risk manag,20,"1998, 2001, 2003, 2007-2011, 2013-2014, 2017-2018"
+firm valu,20,"2004-2008, 2010-2015, 2017"
+season equiti off,20,"1993, 1995, 1997-2000, 2004-2005, 2007, 2009-2010, 2012-2014, 2016-2017"
+credit r,20,"2005, 2009, 2011-2018, 2020"
+transact cost,19,"1997-1999, 2001-2007, 2009, 2012, 2016, 2018-2019"
+stock return,19,"2003-2004, 2006-2012, 2014-2019"
+agenc cost,19,"1993, 1997, 1999, 2004-2007, 2009-2011, 2013, 2015-2016, 2018"
+financi constraint,19,"2003, 2005-2013, 2015, 2017, 2019"
+emerg market,19,"1997, 1999-2000, 2002, 2004-2008, 2010-2011, 2016"
+microstructur,19,"1993, 1995, 1997, 2000-2001, 2004-2005, 2008"
+liquid risk,19,"2002, 2005-2006, 2009-2016, 2018-2019"
+diversif,19,"1995, 1998, 2000, 2002, 2004, 2006, 2008-2012, 2017-2018"
+financi develop,19,"2000, 2002-2003, 2005-2010, 2013-2014, 2019"
+corpor bond,18,"2006, 2008, 2011-2014, 2016-2020"
+learn,18,"2002, 2004, 2006-2007, 2009-2011, 2013, 2017, 2019-2020"
+collat,18,"2006-2007, 2009-2016, 2019"
+conflict of interest,18,"1996, 2001, 2007-2009, 2011, 2015, 2017-2019"
+cash hold,18,2007-2017
+ceo turnov,17,"1995, 2003-2004, 2008, 2010-2013, 2016-2018"
+inform trad,17,"2003, 2007-2012, 2014-2017"
+underwrit,17,"1994, 1997-1999, 2003-2005, 2007-2008, 2011, 2016, 2019"
+reput,17,"2001, 2003, 2005-2008, 2010, 2013-2015, 2017-2020"
+insid trad,17,"1995-1996, 2000, 2004, 2009, 2011, 2015, 2017-2018"
+stock opt,17,"1995, 1997, 1999, 2001, 2005-2009, 2011, 2016-2018"
+ceo compen,17,"1999-2001, 2003-2004, 2006, 2010-2011, 2013, 2015-2018"
+govern,17,"1997, 2003-2008, 2010-2013, 2017-2019"
+valuat,17,"1996, 1999-2000, 2002-2006, 2011, 2014-2016, 2018, 2020"
+compen,17,"1994-1995, 1998, 2000-2001, 2004, 2006, 2010-2014, 2018"
+household financ,17,"2007, 2009, 2011-2014, 2016-2017, 2019-2020"
+contagion,16,"1994, 1997, 1999, 2007-2008, 2010-2015, 2017-2018"
+restructur,16,"1995-1998, 2000, 2003-2004, 2011, 2018-2019"
+expect return,16,"1997, 2002, 2004-2007, 2009-2011, 2013, 2015, 2017, 2019-2020"
+real opt,16,"2002, 2004-2005, 2007-2008, 2011, 2013-2014, 2018, 2020"
+earn manag,15,"1998, 2003-2004, 2006-2013, 2018"
+stochast volatil,15,"1998, 2002-2003, 2007, 2009, 2011, 2013, 2015-2016"
+factor model,15,"1997, 2007, 2009, 2012-2013, 2015-2016, 2018-2019"
+deriv,15,"1995, 2000, 2002-2003, 2007-2008, 2010-2014, 2016, 2019"
+econom growth,15,"2000, 2002, 2005-2006, 2008-2011, 2013, 2015-2016, 2019"
+nasdaq,15,"1996-1999, 2006"
+intern capit market,15,"1995, 1997, 2001-2004, 2006, 2008-2010, 2013-2014, 2017-2018"
+option pric,15,"1993, 1997-1998, 2001-2002, 2004, 2010-2015, 2019"
+limit to arbitrag,14,"2002, 2004-2005, 2009-2014, 2018-2019"
+invest bank,14,"2001-2003, 2006-2007, 2010-2011, 2013-2014, 2016-2017"
+auction,14,"1996, 1999-2000, 2003, 2005, 2008-2010, 2014, 2018-2019"
+ownership,14,"1994-1995, 1997-1998, 2000, 2003-2004, 2006, 2008, 2011, 2013, 2019"
+analyst,14,"2000-2001, 2006-2007, 2011, 2013, 2016-2017, 2019-2020"
+inform,14,"1994-1995, 1997-1998, 2002, 2007-2008, 2010, 2012-2013, 2015-2016"
+privat,14,"1994, 1997, 1999, 2004-2005, 2008, 2010, 2013-2015"
+investor protect,14,"2000-2007, 2009, 2013, 2019"
+financi cris,14,"2002-2003, 2007, 2012-2014, 2016-2017, 2019"
+risk premium,14,"2004-2007, 2012, 2014-2017, 2020"
+event studi,13,"1996, 2000, 2005, 2007, 2009, 2011, 2015-2016, 2018"
+cost of capit,13,"2001, 2004, 2006, 2008-2010, 2012-2013, 2016-2018"
+tax,13,"1996-1997, 2006-2008, 2010, 2015-2017, 2019"
+mispric,13,"1993, 1999-2000, 2002-2003, 2010, 2012-2013, 2015-2016, 2020"
+trade,13,"1994, 2003, 2005, 2007, 2009, 2012, 2014-2015"
+investor senti,13,"1998, 2002-2004, 2011-2012, 2014, 2016, 2018-2019"
+manag turnov,13,"1995-1998, 2000-2001, 2004, 2008, 2012"
+risk,13,"1998, 2004, 2011, 2014, 2016-2017"
+credit default swap,12,"2007, 2012-2019"
+credit spread,12,"2001, 2006-2009, 2011, 2013-2014, 2016, 2019-2020"
+trade volum,12,"2001-2003, 2006-2007, 2009-2012, 2014"
+execut stock opt,12,"1998, 2000-2003, 2005, 2010, 2015-2016"
+ceo,12,"1996, 2011, 2013, 2015-2019"
+product market competit,12,"2006-2007, 2009-2012, 2015-2017"
+busi cycl,12,"2003, 2006, 2008, 2010-2012, 2014, 2016"
+transpar,12,"2002, 2006, 2008-2009, 2011-2012, 2015-2016, 2018-2019"
+profit,12,"2003-2004, 2006-2007, 2013-2015, 2018-2019"
+system risk,12,"2007, 2010-2016, 2018"
+corpor invest,12,"2009-2011, 2013-2015, 2017-2018"
+competit,12,"1999, 2003, 2005-2006, 2009-2010, 2012, 2016, 2018-2020"
+perform evalu,12,"1996, 2001-2002, 2009-2011, 2013-2014, 2019"
+agenc theori,11,"1994, 1998, 2002-2005, 2007, 2011-2012"
+credit risk,11,"2006-2008, 2013-2014, 2016, 2018-2019"
+capm,11,"1996, 2006, 2010, 2012, 2014, 2016, 2018-2019"
+corpor control,11,"1994-1996, 1998, 2000, 2003-2004, 2006, 2008-2009"
+financ constraint,11,"2006-2008, 2010-2011, 2014-2015, 2019"
+disclosur,11,"2002, 2006, 2010-2012, 2014-2017, 2019"
+tender off,11,"1994-1995, 1997, 2000-2001, 2005-2006, 2015"
+bubbl,11,"2005-2007, 2012-2013, 2015, 2018-2019"
+signal,11,"1996, 1998, 2000, 2003, 2006-2007, 2009, 2014, 2019"
+institut,11,"1998-1999, 2001, 2003-2004, 2009, 2012, 2015-2016, 2019"
+growth,11,"1996, 2003-2005, 2008-2009, 2013, 2017, 2019"
+arbitrag,11,"2002, 2005-2006, 2010-2012, 2019-2020"
+crisi,10,"2010, 2012-2013, 2015-2016, 2019"
+default,10,"2007, 2010, 2012-2014, 2017, 2019"
+market mak,10,"1996-1998, 2000, 2008, 2010, 2014, 2016-2018"
+share repurcha,10,"1998-1999, 2001-2002, 2005, 2008, 2012, 2016"
+stock repurcha,10,"1995, 1998, 2000-2001, 2003, 2008, 2011"
+structur estim,10,"2010, 2014, 2016-2019"
+short sel,10,"2006, 2011-2017"
+valu premium,10,"2010-2014, 2020"
+short sal,10,"1998, 2002, 2005, 2010, 2012-2013, 2020"
+debt,10,"1996-1997, 2006-2008, 2010, 2013, 2015"
+advers select,10,"1999, 2002, 2007-2008, 2012, 2015-2018"
+trade strategi,10,"1995, 2001, 2004, 2009, 2011, 2015-2017"
+bond,10,"1997, 2005, 2008, 2011-2012, 2015, 2018"
+moral hazard,10,"1999, 2001, 2004, 2012-2015, 2017"
+uncertainti,10,"2006, 2010, 2012-2015, 2017, 2019"
+polit connect,10,"2003, 2007, 2010, 2012-2016"
+book-to-market,10,"1995, 1997-2001, 2003-2004, 2013, 2020"
+syndic loan,10,"2009, 2011-2012, 2014, 2016-2017"
+repurcha,10,"1999, 2001, 2003, 2005, 2007-2009, 2015, 2019"
+general equilibrium,10,"2001, 2004-2005, 2011, 2013, 2016, 2019"
+entrepreneurship,10,"2006, 2009, 2012, 2014-2015, 2018, 2020"
+price impact,10,"2000-2001, 2004, 2006-2007, 2009-2011, 2020"
+securit,10,2010-2013
+corpor financ,10,"1998, 2000-2001, 2004, 2011-2013, 2015-2017"
+discount r,9,"2001, 2004, 2006, 2009, 2011, 2015-2016"
+r&d,9,"1996, 2003, 2008, 2011, 2014, 2017, 2019"
+leverag buyout,9,"2001, 2010-2011, 2014-2015, 2019-2020"
+risk av,9,"2002, 2007-2011, 2014-2015, 2018"
+ipo underpr,9,"1993, 1999, 2002, 2006-2007, 2009, 2019"
+bank relationship,9,"2001-2003, 2007, 2009, 2013"
+financi institut,9,"1998-1999, 2002, 2007, 2009, 2011-2012, 2017"
+leverag effect,9,"1995, 2001, 2004, 2013, 2015-2016, 2019"
+divestitur,9,"1995, 1997, 1999, 2002, 2011"
+overconfid,9,"2005, 2007-2008, 2010-2011, 2013-2014, 2016-2017"
+blockhold,9,"1995-1997, 2003, 2010-2012, 2017"
+option valuat,9,"1998-2001, 2003, 2007, 2014"
+intern financi market,9,"1998, 2000, 2006-2009, 2012"
+home bia,9,"1997, 2001, 2005, 2008-2010, 2012, 2015, 2017"
+patent,9,"2006, 2009, 2013-2014, 2017-2018"
+takeov premium,9,"1995, 2003, 2009, 2011, 2015, 2018-2019"
+insur,9,"1994, 1996, 2002, 2004, 2009-2010, 2012, 2016, 2018"
+price discoveri,9,"2001, 2008, 2011, 2013-2015, 2017-2019"
+skew,9,"2001, 2011, 2013-2016, 2018-2019"
+idiosyncrat risk,9,"2007, 2009-2010, 2016, 2019"
+cross-list,9,"2002, 2005, 2008, 2010-2011, 2018"
+trade cost,8,"1997, 2000, 2002-2003, 2005-2006, 2013, 2016"
+herd,8,"1999-2001, 2006, 2009, 2016, 2019"
+human capit,8,"2008, 2011-2013, 2016, 2019-2020"
+earn forecast,8,"1996, 1998, 2004-2006, 2014-2015"
+term structur of interest r,8,"2005, 2008-2009, 2013-2015, 2018"
+risk tak,8,"1998, 2006, 2012, 2015, 2017, 2019"
+bank loan,8,"2004, 2007-2008, 2011-2013, 2017"
+tobin q,8,"2005, 2008-2009, 2011, 2017, 2019"
+comov,8,"2003, 2005-2006, 2009-2010, 2013, 2019"
+bank regul,8,"2006, 2009, 2013, 2016, 2018-2019"
+institut ownership,8,"2008-2009, 2016-2017, 2019-2020"
+stock market particip,8,"2009, 2011-2014, 2016-2017"
+market integr,8,"2000, 2002, 2004, 2006, 2009, 2011-2012"
+manageri inc,8,"2000, 2006-2007, 2011-2012, 2017, 2019"
+risk factor,8,"1998, 2000, 2006, 2008, 2011, 2019-2020"
+contract,8,"1997, 1999, 2001-2002, 2005, 2018"
+agenc,8,"1995, 1997, 2005, 2008, 2011, 2019"
+capit budget,8,"1997-1998, 2001, 2006, 2012, 2016"
+forecast,8,"1998, 2001, 2006-2007, 2014-2016, 2020"
+expect hypothesi,8,"1997, 2000-2002, 2005, 2007-2008, 2011"
+short-sal constraint,8,"2002, 2005, 2009, 2012, 2014, 2018"
+firm perform,8,"1997, 2004, 2009-2010, 2012, 2014-2016"
+agenc conflict,8,"2008, 2012-2013, 2015-2017"
+capit alloc,8,"1997-1998, 2000, 2002, 2006, 2011, 2013, 2015"
+fraud,8,"2006, 2008, 2012, 2015-2018"
+analyst coverag,8,"2006-2009, 2011, 2013"
+disagr,8,"2007, 2009, 2011-2012, 2014-2016, 2018"
+certif,8,"1996, 1999, 2007-2008, 2010-2011, 2013"
+privat inform,8,"2004, 2006-2007, 2009, 2011-2012, 2014, 2019"
+valu,8,"2003-2006, 2008, 2013, 2019"
+bid-ask spread,8,"1993-1994, 1996-1998, 2014"
+corpor cultur,7,"2009, 2014-2016"
+short-sel,7,"2001-2002, 2004, 2010-2011, 2014"
+cultur,7,"2003, 2011, 2015, 2019"
+corrupt,7,"2005, 2008-2009, 2011, 2015-2016"
+carri trad,7,"2011-2014, 2018-2019"
+director,7,"1995, 1998, 2005, 2008, 2014, 2018"
+closed-end fund,7,"1995, 1999, 2003, 2010-2011, 2016"
+bargain,7,"1994, 2009, 2011-2013"
+cash,7,"2007, 2010-2011, 2015, 2017, 2019"
+taxat,7,"1995, 1999, 2004, 2011, 2018-2019"
+cash flow,7,"1994, 1996, 1998, 2009, 2016, 2018"
+earn announc,7,"2006, 2009, 2013, 2017-2018, 2020"
+coven,7,"1999, 2006, 2009, 2014, 2017, 2019"
+trade credit,7,"2007, 2010, 2013, 2015-2016, 2019"
+cost of debt,7,"2008-2012, 2015"
+sharehold activ,7,"1996, 1999, 2008, 2011, 2013, 2017, 2019"
+manipul,7,"1999, 2004-2005, 2007, 2012"
+right off,7,"1997, 2000, 2003, 2005, 2008, 2016"
+individu investor,7,"2001, 2008, 2011-2013, 2015"
+flow,7,"2002, 2009, 2012-2013, 2016-2018"
+privat firm,7,"2007, 2011, 2013, 2016-2018"
+foreign exchang,7,"1995, 2000, 2005, 2010-2011, 2019"
+garch,7,"1995, 1998, 2002, 2007-2009, 2014"
+high-frequ data,7,"2001, 2006, 2009-2010, 2013-2014, 2016"
+idiosyncrat volatil,7,"2011-2013, 2016, 2018, 2020"
+pension,7,"1994, 2006, 2011-2012, 2015-2016"
+independ director,7,"2008, 2010-2011, 2014, 2019"
+overreact,7,"1998, 2002, 2009-2010, 2012, 2018"
+fire sal,7,"2010-2011, 2013, 2015, 2017, 2020"
+analyst forecast,7,"1997, 2004, 2007-2008, 2011, 2013, 2016"
+inform product,7,"2001, 2004, 2009-2010, 2013, 2015, 2018"
+interest r,7,"1996-1997, 2000, 2003-2004, 2010, 2015"
+intern,7,"1996, 2003-2004, 2008, 2012-2013, 2015"
+agenc problem,7,"1998, 2005, 2010, 2013-2014, 2018"
+law,7,"2000-2003, 2017"
+monetari polici,7,"1996, 2011, 2015-2016, 2018, 2020"
+market structur,7,"1996-1997, 1999, 2003-2004, 2006, 2014"
+proxi vot,7,"2001, 2007-2008, 2010, 2018-2019"
+asset alloc,7,"1999, 2001-2003, 2006, 2009, 2014"
+employ,7,"1998, 2001, 2013, 2015-2016, 2019"
+bank lend,7,"2002, 2007, 2009, 2011-2012, 2015-2016"
+endogen,7,"1998, 2002, 2006, 2008, 2011-2012"
+exchang r,7,"1994, 2002, 2009, 2012, 2014, 2016-2017"
+univers bank,7,"2000, 2007, 2010, 2018-2019"
+downsid risk,6,"2005, 2014, 2018-2019"
+affin model,6,"2001, 2006, 2009-2011, 2018"
+spinoff,6,"1997, 1999, 2003-2004"
+jump,6,"2003, 2013, 2015, 2017"
+board composit,6,"1999, 2008, 2014, 2017-2018"
+predict regress,6,"2003-2004, 2011, 2014, 2016"
+alpha,6,"2007, 2011, 2013, 2015, 2018-2019"
+specul,6,"2006, 2009, 2012, 2014, 2018-2019"
+price inform,6,"2008, 2011, 2014, 2016-2017, 2019"
+bankruptci cost,6,"1994, 2000-2001, 2010, 2015-2016"
+asset price model,6,"1997, 2000, 2010, 2012, 2015, 2019"
+price kernel,6,"2001-2002, 2011, 2013, 2015, 2019"
+tax eva,6,"2006, 2009, 2015, 2017"
+spread,6,"1996-1997, 1999, 2004"
+correl,6,"2001-2002, 2009-2010, 2013, 2017"
+dividend polici,6,"2000, 2005-2006, 2008-2009, 2011"
+stagger board,6,"2005, 2008, 2013, 2017"
+high frequenc trad,6,"2015, 2017-2019"
+china,6,"2003, 2005, 2007, 2010, 2014, 2019"
+corpor social respon,6,"2014-2017, 2019-2020"
+antitakeov provi,6,"2005, 2008, 2013, 2015, 2017"
+underreact,6,"1998, 2002, 2008, 2011-2012, 2018"
+illiquid,6,"2003, 2007, 2010, 2017, 2020"
+dynam capit structur,6,"2006, 2008, 2011-2012, 2015-2016"
+intern market,6,"2004, 2009, 2012, 2014-2015, 2019"
+renegoti,6,"2009-2010, 2014-2016"
+style invest,6,"2003-2004, 2009, 2013, 2019"
+stock return predict,6,"2002, 2011, 2016, 2018-2019"
+equiti issuanc,6,"2000, 2007, 2013, 2015, 2018"
+strateg allianc,6,"1997, 2003, 2006, 2012-2014"
+creditor right,6,"2009-2010, 2014-2015, 2017"
+varianc risk premium,6,"2016-2017, 2019"
+bid–ask spread,6,"1998-1999, 2009"
+limit ord,6,"1999-2000, 2003, 2005, 2017"
+market shar,6,"2007, 2013, 2016-2018"
+effici,6,"1993, 1996, 2005, 2015, 2017"
+busi group,6,"2003-2004, 2007, 2011, 2013-2014"
+famili firm,6,"2006, 2009-2011, 2016, 2019"
+financ,6,"1997, 1999-2001, 2015"
+bailout,6,"2004, 2010, 2012, 2014, 2017"
+select bia,6,"1995, 2005, 2011-2012, 2016"
+municip bond,6,"2007, 2012, 2019-2020"
+sentiment,6,"2012, 2015-2016, 2018, 2020"
+benchmark,6,"2006, 2008-2011, 2013"
+quantit ea,6,"2013, 2018-2020"
+financi innov,6,"2004-2005, 2011-2012, 2018-2019"
+financi analyst,6,"2006, 2008, 2015-2016, 2019"
+limit att,6,"2006, 2013, 2016, 2018-2019"
+dark pool,6,"2009, 2015-2017"
+cross-sect of stock return,6,"2009, 2012, 2015-2018"
+asset sal,6,"1995, 1999, 2008, 2017-2018"
+bayesian analysi,6,"1997, 1999-2000, 2002, 2004-2005"
+welfar,6,"2009-2011, 2013-2015"
+cds,6,"2013-2014, 2016-2018"
+organiz form,6,"1997, 2004, 2013"
+mortgag,6,"2009, 2011-2013, 2016, 2018"
+beta,6,"2005, 2012, 2014, 2018"
+invest polici,5,"2001, 2006, 2008-2009"
+equiti inc,5,2010-2013
+manageri ownership,5,"1999, 2001-2002, 2007, 2012"
+ceo pay,5,"2008-2009, 2011, 2017-2018"
+career concern,5,"1999, 2006, 2013, 2017, 2020"
+optim,5,"2005, 2007, 2011, 2015, 2017"
+long-run perform,5,"1993, 1999-2000, 2011"
+oper perform,5,"1995-1996, 1999, 2006, 2013"
+collus,5,"1996-1997, 2000, 2004-2005"
+chapter 11,5,"1994, 2000, 2003, 2007, 2016"
+tax avoid,5,"2006, 2011, 2014, 2017"
+intern asset pric,5,"1994, 1998, 2007-2008, 2017"
+intern cross-list,5,"2004, 2006, 2009-2010"
+intern financ,5,"2007, 2009-2011, 2017"
+intern invest,5,"2001, 2005, 2009, 2011, 2017"
+investor att,5,"2013, 2015-2017, 2020"
+nyse,5,"1996-1997, 1999, 2005"
+merger wav,5,"2004-2005, 2011, 2013"
+law and financ,5,"2005, 2009, 2011, 2018"
+inventori,5,"1995, 2003, 2015-2016"
+takeov defen,5,"2013, 2015-2017"
+return rev,5,"2001, 2003, 2008, 2014, 2019"
+liquid provi,5,"2000, 2012, 2014, 2019-2020"
+media,5,"2008, 2010, 2013-2014, 2020"
+regress discontinu,5,"2008, 2013, 2015-2017"
+conglom,5,"2004, 2006, 2012, 2014, 2018"
+financi integr,5,"2008-2009, 2014-2015, 2017"
+foreign direct invest,5,"2008, 2011-2012, 2015, 2019"
+focus,5,"1995, 1997, 1999, 2002"
+product market,5,"1995, 2003, 2011, 2016"
+firm valuat,5,"2009, 2012, 2014, 2016, 2019"
+regulatori arbitrag,5,"2013, 2015, 2018"
+financi polici,5,"1994-1995, 1997, 2013, 2016"
+financi market,5,"2003-2004, 2016, 2018"
+debt matur,5,"1999, 2010, 2017-2018"
+default risk,5,"2007, 2013, 2019"
+price pressur,5,"1995, 2007, 2011, 2013, 2015"
+segment,5,"1994, 1999, 2007-2008, 2018"
+rare disast,5,"2011, 2014, 2016-2017, 2019"
+real estat,5,"1997, 2007, 2013-2014, 2019"
+recurs pref,5,"2013, 2015-2018"
+secur lend,5,"2002, 2013"
+secur design,5,"2001, 2012, 2015, 2018"
+secur analyst,5,"2004-2006, 2016"
+disposit effect,5,"2005, 2012-2013, 2016"
+credit suppli,5,"2013, 2015-2016, 2019"
+crash,5,"1995, 2001, 2006, 2009, 2012"
+repric,5,"2000-2001, 2003"
+peer effect,5,"2012, 2015-2016, 2019"
+inflat,5,"1997, 2005, 2012-2013, 2015"
+stock recommend,5,2004-2007
+control sharehold,5,"2004, 2010, 2012-2013"
+partial adjust,5,"1993, 2005, 2007, 2012"
+stock,5,"1997, 2010, 2012, 2018"
+risk-tak inc,5,"1999, 2006, 2012, 2015"
+peck ord,5,"1996, 2005, 2007, 2010, 2017"
+stochast discount factor,5,"2008, 2010, 2012, 2016"
+impli volatil,5,"2009, 2011, 2017"
+excess volatil,5,"2007-2009, 2015"
+distress,5,"1997, 2005, 2014, 2016, 2018"
+persist,5,"1999, 2004, 2007, 2012, 2017"
+corpor polici,5,"2000, 2012-2013"
+corpor tax,5,"2008, 2015, 2017-2018"
+save,5,"1997, 2000, 2007, 2010"
+polit of financ,5,"1994, 1996, 1998-1999, 2005"
+portfolio select,5,"1997, 2000, 2002-2003"
+spin-off,5,"1995, 1999, 2004, 2011, 2014"
+realiz volatil,5,"2003, 2009, 2012-2013, 2015"
+employe stock opt,5,"2002, 2005, 2015, 2017-2018"
+asset substitut,5,"1999, 2003, 2006, 2008, 2015"
+turnov,5,"2013-2014, 2018"
+bank deregul,5,"2008, 2011-2013, 2018"
+board independ,5,"2007, 2009, 2012, 2014-2015"
+bookbuild,5,"2001-2002, 2006, 2010, 2013"
+volum,5,"1993, 1996, 2012, 2014, 2018"
+time-vari beta,4,"2006, 2012, 2015-2016"
+bargain pow,4,"2004, 2019"
+restat,4,"2006-2007, 2013, 2017"
+ambigu av,4,2015-2018
+classifi board,4,"2007-2008, 2013, 2017"
+bank run,4,"1994, 1996, 2018-2019"
+risk premia,4,"2005, 2013, 2015-2016"
+interest rate swap,4,"1997, 2000, 2009, 2013"
+risk-shift,4,"2004, 2008, 2015-2016"
+barrier opt,4,"1999, 2003, 2007"
+systemat risk,4,"2010-2012, 2016"
+order flow,4,"2007-2009, 2014"
+risk-tak,4,"1997, 2013, 2017, 2019"
+airlin,4,"1997, 1999, 2009, 2014"
+intern equiti market,4,"1994, 2011, 2013, 2015"
+intern stock market,4,"2008, 2012, 2016, 2020"
+entrench,4,"2005, 2011-2013"
+order imb,4,"2000, 2002, 2004, 2014"
+season,4,"1993, 2003, 2008, 2016"
+research and develop,4,"2009, 2013, 2017, 2019"
+bank competit,4,"2004, 2006-2007, 2015"
+extern financ,4,"1996, 2005, 2014, 2016"
+extern,4,"2015-2016, 2018-2019"
+lévi process,4,"2004, 2012, 2014"
+exit,4,"1996, 2009, 2017, 2019"
+market react,4,"2001, 2005, 2007, 2016"
+ceo inc,4,"2011-2013, 2018"
+inform and market effici,4,"2000, 2006-2007, 2009"
+excess control right,4,"2011-2013, 2015"
+inform diffus,4,"2003, 2012, 2014, 2017"
+overinvest,4,"1995, 2007, 2009, 2018"
+estim risk,4,"1996-1997, 1999, 2006"
+market seg,4,"2005, 2010-2011, 2013"
+inform risk,4,"2014, 2019-2020"
+organiz structur,4,"1995, 2012, 2017, 2019"
+equiti carve-out,4,"1995, 1998, 2011"
+equiti,4,"1994, 1996, 2001, 2016"
+syndic,4,"2007, 2015-2016"
+measur error,4,"2012, 2017-2019"
+bayesian,4,"1997, 2007, 2012, 2019"
+new,4,"1998, 2003, 2018"
+joint ventur,4,"1997, 2004, 2012, 2014"
+skill,4,"2014-2015, 2017"
+mutual fund perform,4,"1999, 2013-2014, 2018"
+junk bond,4,"1994, 1996, 1998, 2000"
+social norm,4,"2009, 2019-2020"
+soft inform,4,"2005, 2007, 2012, 2018"
+credit rate agenc,4,"2005, 2013, 2017"
+labor market,4,"2009, 2011, 2014-2015"
+credit,4,"2010, 2013-2014, 2019"
+condit volatil,4,"2004, 2009, 2012"
+cost of equ,4,"1997, 2001, 2008-2009"
+lea,4,"1995, 2010, 2013"
+corpor risk manag,4,"2001, 2006, 2008, 2016"
+board siz,4,"2007-2008, 2012"
+stock split,4,"1996, 2009, 2015-2016"
+limit order book,4,"2004, 2009, 2013, 2017"
+limit order market,4,"2009, 2014, 2016"
+treasuri bond,4,"1997, 2000, 2002, 2018"
+loan,4,"1997, 2008, 2011"
+real invest,4,"2011, 2013, 2016"
+dealer market,4,"1998, 2012, 2018-2019"
+access to financ,4,"2011, 2013, 2015, 2019"
+wage,4,"1998, 2013-2014, 2019"
+commerci bank,4,"1999, 2007, 2015"
+nonparametr estim,4,"2002, 2012-2014"
+secur issuanc,4,"2008, 2010-2011, 2017"
+discount,4,"1995, 1999, 2011, 2016"
+director reput,4,"2007-2008, 2014, 2019"
+director elect,4,"2008, 2010, 2018-2019"
+differ of opinion,4,"2002, 2009, 2015"
+seo,4,"2004, 2008-2009, 2014"
+subprim mortgag,4,"2013, 2016, 2018"
+delawar,4,"2013, 2017"
+shadow bank,4,"2013, 2015, 2018-2019"
+investor behavior,4,"2000-2001, 2012, 2019"
+new list,4,"2001, 2004, 2013, 2017"
+sharehold vot,4,"2000, 2012, 2014, 2019"
+sharp ratio,4,"2007, 2011, 2014, 2018"
+factor analysi,4,"2001, 2008-2009, 2011"
+bond pric,4,"1997, 2005-2006, 2011"
+poison pil,4,"1994-1995, 2005, 2013"
+financi contract,4,"2007, 2009, 2015-2016"
+callabl bond,4,"1995, 1997, 2001, 2010"
+asset liquid,4,"2001-2002, 2010"
+announc return,4,"2009, 2013, 2019"
+financi intermedi,4,"2008, 2013, 2015, 2018"
+q theori,4,"2007, 2013, 2016"
+financi literaci,4,2016-2018
+pyramid,4,"2006, 2011, 2014-2015"
+time-vari risk premium,4,"1996, 2002, 2011, 2019"
+fund perform,4,"2000, 2011, 2018-2019"
+time-vari risk,4,"1999, 2006, 2012, 2015"
+asset price anomali,4,"2009-2010, 2012-2013"
+perform persist,4,"2011, 2013, 2015, 2017"
+polit risk,4,"2008, 2012, 2015, 2018"
+proxi contest,4,"1998-2000, 2014"
+hous,4,"2007, 2015, 2020"
+asset-back secur,4,"2010-2011, 2013, 2017"
+manageri compen,4,"1998, 2009, 2011, 2016"
+prospect theori,4,"2005, 2013, 2015, 2017"
+properti right,4,"2003, 2005, 2012, 2015"
+tick siz,4,"1998-2000, 2004"
+product,4,"2007, 2010, 2013, 2015"
+capit flow,4,"2000, 2003, 2014, 2018"
+capit gain taxat,4,"2001, 2006, 2016, 2018"
+time-chang lévi process,4,"2007-2008, 2012, 2014"
+futur market,4,"1996, 2005, 2012"
+incomplet market,4,"2002, 2007, 2010, 2012"
+backdat,4,"2007, 2011, 2019-2020"
+precautionari sav,4,"2007, 2012"
+financ polici,4,"2006, 2008, 2010-2011"
+incent compen,4,"2006, 2014, 2016"
+go publ,4,"1997, 2001, 2011, 2015"
+financ deci,4,"2005, 2009, 2011, 2013"
+peck order theori,4,"1999-2001, 2003"
+portfolio manag,3,"2001-2002, 2010"
+corpor board,3,"2007, 2011, 2013"
+price support,3,"1993, 2008, 2015"
+asset price test,3,"2006, 2016, 2018"
+leverag constraint,3,"2014, 2018, 2020"
+asset price puzzl,3,"2006, 2016, 2018"
+short interest,3,"2005, 2010, 2016"
+fragil,3,"2012, 2016"
+debt financ,3,"1999, 2013-2014"
+dealer,3,"2007, 2012, 2019"
+dark trad,3,"2016, 2018-2019"
+bia,3,"1999, 2004, 2020"
+network,3,"2014, 2017-2018"
+polit uncertainti,3,"2013, 2017"
+activ manag,3,2015-2017
+general method of mo,3,"1994, 1999, 2015"
+polit economi,3,"2005, 2014, 2018"
+bond fund,3,"2010, 2017, 2019"
+debt structur,3,"1999, 2001, 2018"
+continuous-tim model,3,"2000, 2006, 2011"
+heterogen belief,3,"2008, 2011, 2016"
+privat benefit of control,3,"2004-2005, 2010"
+geographi,3,"2009, 2011-2012"
+invest shock,3,"2013, 2017, 2019"
+senior,3,"2007, 2018-2019"
+hedg ratio,3,"2005, 2008, 2017"
+deleg,3,"1998, 2011, 2016"
+hedg fund perform,3,"2007, 2017"
+hedg fund activ,3,2016-2018
+foreign investor,3,"1999, 2006, 2012"
+stock pric,3,"2006, 2009, 2018"
+control right,3,"2012-2013, 2015"
+withdraw,3,"2000, 2005, 2008"
+natur experi,3,"2015, 2019-2020"
+negoti,3,"2008, 2011, 2019"
+wealth transf,3,"2013, 2015-2016"
+size,3,"2000, 2013, 2019"
+stochast skew,3,"2007-2008, 2013"
+credit alloc,3,"2004, 2007-2008"
+asset manag,3,"2013, 2018-2019"
+state ownership,3,"2000, 2008, 2010"
+corpor perform,3,"1997, 2012, 2019"
+creativ destruct,3,2008-2009
+crash risk,3,"2011, 2014"
+multifactor model,3,"1995, 2017, 2019"
+speed of adjust,3,"2006, 2012-2013"
+spillov,3,"2005, 2007, 2018"
+gambl,3,"2011, 2018"
+counterparti risk,3,"2014-2015, 2019"
+corpor ventur capit,3,"2006, 2010, 2019"
+corpor taxat,3,"2007-2008, 2020"
+lbo,3,"1998, 2010-2011"
+adr,3,"2002, 2008, 2013"
+credit constraint,3,"2011, 2013, 2018"
+corpor liquid,3,"2010, 2012-2013"
+predict return,3,"1999, 2006, 2019"
+mutual fund flow,3,"1999, 2007, 2009"
+growth opt,3,"2012-2013, 2017"
+small busi,3,"1998-1999, 2015"
+cross-sect,3,"2009-2010, 2018"
+growth opportun,3,"1995, 2002, 2018"
+price,3,"2002, 2009, 2011"
+legal system,3,"1999, 2002, 2006"
+cross section of stock return,3,"2016-2017, 2019"
+state-own enterpri,3,"2003, 2005, 2014"
+social network,3,"2010, 2017, 2019"
+fund flow,3,2013-2015
+social ti,3,"2009, 2014-2015"
+soe,3,"1997-1998, 2000"
+disast,3,"2010, 2017-2018"
+credit lin,3,"2011, 2016, 2019"
+trust,3,"2009, 2015"
+payday lend,3,"2011, 2013-2014"
+invest deci,3,"2012, 2015"
+financi fraud,3,"2007, 2011, 2018"
+peer group,3,"2010-2011, 2013"
+religion,3,"2003, 2009, 2011"
+outsid director,3,"1994, 2010, 2012"
+inform qu,3,"2011, 2014, 2020"
+equiti return,3,"2009, 2017, 2020"
+repo,3,"2011, 2018-2019"
+announc,3,"2008, 2011, 2014"
+inform spillov,3,"1998, 2009, 2011"
+equiti issu,3,"2000, 2005, 2016"
+behavior bia,3,"2006, 2011, 2017"
+volatil tim,3,"2003, 2006, 2011"
+pension fund,3,"1999, 2002, 2014"
+entri,3,"2005, 2013, 2017"
+insid,3,"1993, 2012, 2019"
+entrepreneuri financ,3,"2008, 2010, 2018"
+icapm,3,"2005, 2008, 2017"
+model uncertainti,3,"2002, 2009, 2016"
+ambigu,3,"2017, 2019"
+inform leakag,3,"2015, 2019"
+relationship,3,"2008, 2011, 2017"
+inform disclosur,3,"2012, 2017"
+ownership concentr,3,"2000, 2008, 2010"
+extrapol,3,"2015, 2017-2018"
+ration expect,3,"2005, 2015-2016"
+index,3,"2011, 2015, 2020"
+exposur,3,"2007-2008, 2011"
+industri concentr,3,"2006, 2008, 2017"
+bank crisi,3,"2010-2011, 2015"
+anchor,3,"2012, 2019"
+refer point,3,"2012, 2016, 2019"
+payout,3,"2005, 2015, 2019"
+exercis polici,3,"1998, 2010, 2015"
+volatil risk premium,3,"2013, 2016"
+inform acquisit,3,"2006-2007, 2016"
+analyst recommend,3,"2004, 2007"
+regul fd,3,"2005, 2008, 2014"
+rate,3,"2009, 2012, 2019"
+bank failur,3,"2014, 2016, 2018"
+bank financ,3,"2003, 2010, 2016"
+employe ownership,3,"1998, 2004, 2018"
+employe compen,3,"2005, 2009, 2015"
+return autocorrel,3,"1997, 2004, 2019"
+hous pric,3,2017-2018
+proxi fight,3,"2005, 2013, 2019"
+airga,3,"2013, 2017"
+intern diversif,3,"1997, 2011, 2017"
+internet,3,2001-2003
+unconvent monetari polici,3,"2016-2017, 2019"
+search,3,"2004, 2015, 2017"
+dividend growth,3,"2005, 2008-2009"
+firm-specif risk,3,"2002, 2006-2007"
+dividend discount model,3,"2015, 2017, 2019"
+index fund,3,"1999, 2014, 2016"
+high-frequ trad,3,2014-2016
+numer techniqu,3,"2003, 2007, 2014"
+diver,3,"2009, 2018"
+privat plac,3,"2000, 2004, 2013"
+warrant,3,"1993, 1995, 2001"
+polit,3,"2003, 2013-2014"
+heteroskedast,3,"1995, 2001, 2009"
+firm boundari,3,"2009, 2011, 2018"
+voluntari disclosur,3,"2008, 2011, 2015"
+financi perform,3,"1999, 2002, 2008"
+financi system,3,2002-2003
+altern invest,3,"2011, 2015"
+hyperbol discount,3,"2007, 2013-2014"
+option market,3,"2009, 2012, 2017"
+rever,3,"1999, 2003, 2013"
+effect spread,3,"1999, 2003, 2009"
+integr,3,"2005, 2015, 2018"
+econom uncertainti,3,"2009, 2014, 2017"
+risk diversif,3,"2006, 2011, 2013"
+optim contract,3,"2011, 2016, 2019"
+allianc,3,"1999, 2006, 2013"
+financi regul,3,"2013, 2017"
+perform measur,3,"1999, 2014, 2016"
+risk shift,3,"1997, 2003, 2014"
+oper risk,3,"2006, 2012"
+underinvest,3,"1999, 2009, 2014"
+financi stabil,3,"2004, 2015-2016"
+earn,3,"2006, 2008, 2013"
+empti creditor,3,2017-2019
+global gam,3,"2013, 2017, 2020"
+acquir return,3,"2011-2012, 2015"
+manageri entrench,3,"2007, 2013-2014"
+macroeconom risk,3,"2013-2014, 2016"
+market anomali,3,"2004, 2013, 2016"
+market frict,3,"1995, 2012, 2016"
+compens structur,3,"1995, 2016, 2020"
+market,3,"2003, 2006, 2010"
+lotteri,3,"2016, 2018"
+merger negoti,3,2009-2011
+collater debt oblig,3,"2009, 2019-2020"
+tarp,3,"2010, 2012, 2014"
+book build,3,"2002, 2005, 2007"
+manageri skil,3,"2011, 2015, 2018"
+surviv,3,"2004, 2011, 2013"
+margin tax r,3,"1996, 2010"
+lobbi,3,2012-2014
+consumption-bas asset pric,3,"2007, 2012, 2017"
+manageri bia,3,"2008, 2011, 2016"
+termin fe,3,"2003, 2015"
+macroeconomi,3,"2006, 2016, 2018"
+macro-fin term structur model,3,"2013, 2015, 2018"
+microstructur noi,3,"2006, 2010, 2014"
+lockup,3,"2007, 2013, 2019"
+manageri myopia,3,2011-2013
+time-vari expect return,3,"2003, 2005, 2008"
+long memori,3,"2001, 2009, 2017"
+bootstrap,3,"1997-1998, 2007"
+condit capm,3,"2006, 2008, 2011"
+accrual,3,"2009-2010, 2016"
+market disciplin,3,"1998, 2017"
+structur model,3,"2008, 2012, 2020"
+manageri labor market,3,"1995, 2015, 2018"
+structur financ,3,"2012, 2017-2018"
+liquid manag,3,"2010, 2014, 2020"
+target capit structur,3,"2007, 2011"
+yield curv,3,"2011, 2013, 2019"
+long-run risk,3,"2007, 2011, 2013"
+co-mov,3,"2000, 2004, 2017"
+stock select,3,"1999, 2013, 2015"
+liquid cost,3,"1995, 2005, 2012"
+subprim crisi,3,"2010, 2012, 2014"
+suppli chain,3,"2008, 2015, 2017"
+toehold,3,"2005-2006, 2009"
+yield,3,"1999, 2005, 2018"
+market for corpor control,3,"1998, 2005, 2009"
+buyout,3,"1996, 2016, 2019"
+loan spread,3,"2009, 2012-2013"
+account,3,"1995, 2012, 2014"
+52-week high,2,"2012, 2018"
+invest flow,2,"1995, 2013"
+director and offic liabil insur,2,"2011, 2013"
+idiosyncrat skew,2,2019-2020
+invest frict,2,2010-2011
+risk-fre r,2,2018-2019
+all-star analyst,2,"2001, 2007"
+oper leverag,2,"1994, 2019"
+dynam contract,2,"2012, 2015"
+behavior econom,2,2016
+earn announc premium,2,"2013, 2015"
+synergi,2,"2003, 2016"
+director inc,2,"2014, 2019"
+manag,2,"2006, 2013"
+put-cal par,2,2012-2013
+invest experi,2,"2009, 2019"
+club deal,2,"2010, 2015"
+risk-return trade-off,2,2004-2005
+director labor market,2,2012-2013
+annuiti,2,"2009, 2014"
+put–cal par,2,"2004, 2016"
+financi leverag,2,"2012, 2018"
+cmbs,2,"2011, 2017"
+commod market,2,"2013, 2019"
+financi lib,2,"2006, 2012"
+attent,2,"2012, 2015"
+firm risk,2,"2012, 2018"
+opac,2,"2004, 2017"
+maximum likelihood,2,"2004, 2019"
+invest bank relationship,2,"2007, 2017"
+person trait,2,"2013, 2017"
+invest newslett,2,"1996, 1999"
+invest opportun,2,"1996, 1999"
+lock-in effect,2,"2001, 2018"
+revolv door,2,"2016, 2020"
+riegle-n act,2,"2006, 2012"
+quadratur,2,"2003, 2007"
+diffus,2,"2004, 2015"
+financi fragil,2,"2010, 2017"
+main bank,2,"2002, 2004"
+climat chang,2,2019-2020
+interbank network,2,2017-2018
+econom of organ,2,"2003, 2012"
+main bank system,2,"1995, 1997"
+financi glob,2,"2007, 2013"
+locat deci,2,"2003, 2012"
+underwrit compen,2,"1995, 2001"
+rollov risk,2,2017-2018
+pension plan,2,"2000, 2012"
+locat,2,"2009, 2012"
+interest rate risk,2,"2008, 2010"
+takeov auct,2,"2013, 2019"
+belief,2,"2017, 2019"
+q-theori,2,"2011, 2013"
+opportunist tim,2,"2011, 2019"
+valu of tax shield,2,"2004, 2006"
+market liquid,2,2011
+risk shar,2,"1996, 2009"
+take-ov provi,2,2007-2008
+underperform,2,"1995, 1999"
+behavior genet,2,"2010, 2014"
+tail risk,2,"2017, 2019"
+oper profit,2,2015-2016
+aggreg volatil risk,2,2018-2019
+vote,2,"2011, 2013"
+dividend taxat,2,"1998, 2005"
+dividend strip,2,"2016, 2018"
+dividend sign,2,"2000, 2015"
+nyse specialist,2,"1998, 2002"
+fintech,2,2018
+season equiti offer (seos),2,"2010, 2018"
+local bia,2,"2008, 2012"
+public debt,2,"2003, 2013"
+season public off,2,"2000, 2003"
+fire-s,2,"2008, 2016"
+invest behavior,2,"2015, 2018"
+dividend clientel,2,"2008, 2019"
+tunnel,2,"2006, 2011"
+sec,2,"1995, 2012"
+diversifi firm,2,2002-2003
+secur law,2,"2010, 2018"
+diversif discount,2,"2003, 2010"
+suppli of capit,2,"2014, 2018"
+capital-gain tax,2,"1998, 2018"
+inventori risk,2,2014
+distress risk,2,"2011, 2014"
+secondari buyout,2,2015-2016
+secur issu,2,"1996, 1999"
+value-at-risk,2,"2005, 2010"
+firm growth,2,"2002, 2011"
+bear raid,2,2012-2013
+hostil takeov,2,"1996, 2017"
+loan suppli,2,"2011, 2014"
+capit structur arbitrag,2,2012
+disper,2,"2002, 2009"
+dividend tax,2,2013-2014
+dividend yield,2,"1997, 2006"
+nonlinear,2,"2004, 2007"
+oblig,2,2016-2017
+supplier,2,"2012, 2017"
+cash balanc,2,2010
+oligopoli,2,"2009, 2011"
+commod,2,"2012, 2018"
+valuat ratio,2,"2008, 2013"
+run,2,"2014, 2016"
+durat analysi,2,"2001, 2007"
+market ineffici,2,"2002, 2013"
+public off,2,"2004, 2007"
+financi risk,2,"2009, 2013"
+secur regul,2,2008-2009
+dual trad,2,2003
+public firm,2,2016-2017
+interst branch,2,"2003, 2012"
+offer pric,2,"2001, 2012"
+sarbanes-oxley,2,2008
+sarbanes-oxley act,2,2009-2010
+secur pric,2,"1996, 1999"
+option backdat,2,"2012, 2015"
+manag qu,2,"2005, 2018"
+book-to-market effect,2,2010-2011
+intertempor hedg demand,2,"2003, 2008"
+financi structur,2,"2002, 2008"
+odd-eighth avoid,2,"1997, 1999"
+dodd-frank act,2,"2013, 2016"
+buy pow,2,"2004, 2011"
+sea level ris,2,2019-2020
+perquisit,2,2006
+secur litig,2,"2002, 2014"
+impli cost of capit,2,"2013, 2016"
+return skew,2,"2008, 2018"
+cash flow volatil,2,"1999, 2013"
+analyst optim,2,"2007, 2009"
+fas 123r,2,"2012, 2016"
+brokerag commiss,2,"2007, 2012"
+excess return,2,"1999, 2018"
+ceo overconfid,2,"2016, 2018"
+inform cost,2,"1996, 2013"
+bank fragil,2,"2010, 2012"
+exchang list,2,1997
+market return,2,"1998, 2006"
+too big to fail,2,"1999, 2004"
+ownership inc,2,"2003, 2012"
+market regul,2,"1999, 2005"
+index inclus,2,"2005, 2020"
+exchange-trad fund,2,2016-2017
+inform advantag,2,"2017, 2019"
+market qu,2,"2002, 2016"
+execut,2,"2000, 2015"
+inform design,2,2019-2020
+market risk,2,2006-2007
+abandon opt,2,"1996, 2018"
+relat perform evalu,2,"1999, 2018"
+buyer pow,2,"2005, 2007"
+macroeconom new,2,2015-2016
+tax clientel,2,"1998, 2011"
+feedback effect,2,"2010, 2013"
+feedback,2,"2006, 2018"
+ethic,2,2015
+volatil smirk,2,2011
+euro,2,2013-2014
+relationship bank,2,"2006, 2018"
+tournament,2,"2016, 2018"
+inform flow,2,1995-1996
+busi board,2,"2014, 2018"
+overnight return,2,2018-2019
+payoff complementar,2,"2010, 2017"
+overpr,2,"2013, 2019"
+famili busi,2,"2011, 2013"
+execut cost,2,"1996, 2003"
+inform process,2,2018
+recapit,2,"1995, 2001"
+macro factor,2,"2007, 2012"
+recoveri,2,"2016, 2019"
+expen,2,"2012, 2017"
+experi,2,2018-2019
+m&a,2,"2011, 2019"
+recommend,2,"2007, 2017"
+unscent kalman filt,2,"2008, 2014"
+volatil risk,2,"2013, 2018"
+bank distress,2,"2003, 2014"
+technolog,2,"1997, 2018"
+expropri,2,"2006, 2012"
+cater,2,"2004, 2006"
+expropri risk,2,"2012, 2015"
+technolog innov,2,"2007, 2009"
+extrem return,2,"2011, 2018"
+individu stock return,2,"2016, 2018"
+analyt filt,2,"2012, 2015"
+technic analysi,2,"1996, 2009"
+expect puzzl,2,"2002, 2006"
+recurs util,2,2015
+fama-macbeth regress,2,"2013, 2015"
+execut qu,2,"2004, 2018"
+market price of risk,2,"2002, 2007"
+pay-perform sensit,2,"2011, 2019"
+paramet uncertainti,2,"2011, 2016"
+lumpi invest,2,"2006, 2008"
+inequ,2,"2013, 2018"
+refinanc,2,2016-2017
+market pow,2,"2007, 2017"
+individu,2,"2001, 2015"
+real effect of financi market,2,"2017, 2019"
+real effici,2,"2017, 2019"
+bank capit,2,"2013, 2016"
+unlev beta,2,"2004, 2006"
+partial privat,2,"2003, 2007"
+abnorm return,2,"1995, 2013"
+filter,2,"2000, 2013"
+intang capit,2,2017
+return,2,"2012, 2017"
+implicit contract,2,"2007, 2009"
+implicit guarant,2,"2010, 2017"
+altern trade system,2,"2003, 2009"
+valu cr,2,"2016, 2020"
+return chas,2,"2009, 2014"
+employ risk,2,"2006, 2009"
+class action lawsuit,2,"2007, 2018"
+retir sav,2,"2002, 2017"
+margin,2,"2015, 2020"
+valu and momentum,2,2012
+financi conglom,2,"2016, 2019"
+retir,2,"2007, 2016"
+target,2,"2006, 2012"
+retent,2,"2005, 2009"
+institut activ,2,2000
+retail trad,2,2019
+empir corpor financ,2,"2009, 2016"
+empir asset pric,2,"2012, 2019"
+busi director,2,2014
+unemploy,2,"2015, 2019"
+intang,2,"2011, 2017"
+option exerci,2,"2005, 2016"
+option expir,2,"2005, 2012"
+insur compani,2,"2002, 2011"
+return volatil,2,"1994, 2014"
+instrument variabl,2,"2017, 2019"
+elast,2,"1999, 2004"
+elect,2,"2008, 2014"
+capit realloc,2,"2005, 2008"
+elector cycl,2,"2005, 2018"
+financi depend,2,"2014, 2017"
+institut trad,2,"2001, 2003"
+institut qu,2,"2015, 2019"
+boundari of the firm,2,"2003, 2012"
+return premium,2,"2010, 2012"
+retail investor,2,"2016, 2020"
+employe treat,2,"2011, 2019"
+out-of-sampl,2,"2008, 2013"
+equiti market,2,"2001, 2015"
+equiti compen,2,"2007, 2017"
+organ,2,"1994, 2005"
+r2,2,"2009, 2015"
+equiti durat,2,"2011, 2019"
+financ frict,2,"2013, 2019"
+rais capit,2,"2009, 2011"
+bank merg,2,"2001, 2004"
+cfo,2,2010-2011
+citat,2,2013-2014
+tax aggress,2,"2010, 2013"
+bank leverag,2,2015-2016
+inform shar,2,2009-2010
+equiti ownership,2,"1995, 1997"
+bank lend channel,2,"2011, 2020"
+tax arbitrag,2,"2008, 2018"
+lookback opt,2,"2003, 2007"
+long-term return,2,"1999, 2011"
+equilibrium,2,"2011, 2017"
+macroeconom variabl,2,"2011, 2014"
+initi public offer (ipo),2,"2003, 2014"
+option return,2,"2009, 2013"
+endogen growth,2,"2015, 2019"
+financi adv,2,"2007, 2016"
+resourc alloc,2,"2004, 2018"
+insid debt,2,"2012, 2016"
+enforc,2,"2009, 2013"
+resili,2,"2013, 2016"
+target pric,2,"2006, 2016"
+cheap talk,2,"2006, 2015"
+ambigu measur,2,2017-2018
+inatt,2,2016-2017
+target resist,2,"2009, 2014"
+angel investor,2,"2015, 2020"
+american opt,2,"2001, 2005"
+markup,2,"2003, 2016"
+capit regul,2,"2015, 2018"
+behavior corpor financ,2,2012-2013
+sovereign debt crisi,2,"2015, 2017"
+time-to-build,2,"2008, 2016"
+cross list,2,2006
+social respons invest,2,"2011, 2018"
+big data,2,2018
+mont carlo simul,2,"1998, 2005"
+creditor protect,2,"2010, 2019"
+affin,2,2009-2010
+bitcoin,2,2019-2020
+price improv,2,"1994, 2018"
+market depth,2,"1995, 2009"
+condit,2,"2002, 2019"
+kurtosi,2,"2013, 2015"
+consumpt,2,2010-2011
+sort,2,"2005, 2019"
+market cycl,2,"2008, 2013"
+sovereign debt,2,"2005, 2019"
+trade rul,2,"1999, 2009"
+project financ,2,"2007, 2011"
+mood,2,"2016, 2019"
+corpor focus,2,"2000, 2002"
+price disp,2,"2007, 2009"
+corpor fraud,2,"2008, 2014"
+labor incom,2,"2011, 2013"
+credit qu,2,"2012, 2015"
+capit account lib,2,"2000, 2008"
+moody\,2,"2012, 2017"
+vector autoregress,2,"1997, 2008"
+sovereign wealth fund,2,2010-2011
+credit deriv,2,"2007, 2012"
+g32,2,1996
+price manipul,2,2005
+lend,2,"2014, 2018"
+founder,2,"2011, 2016"
+corpor debt,2,2006
+model calibr,2,"2001, 2005"
+gender,2,"2009, 2013"
+cross-subsid,2,"1995, 1997"
+corpor bond return,2,2005
+gdp growth,2,"2000, 2005"
+cross-sel,2,"2008, 2018"
+lender of last resort,2,"2017, 2019"
+capit control,2,"2003, 2020"
+skew pref,2,"2011, 2016"
+jump beta,2,"2016, 2019"
+predatori lend,2,"2009, 2014"
+cross-sect asset pric,2,"2007, 2012"
+small busi lend,2,"2012, 2019"
+hazard model,2,"2001, 2011"
+cross section of return,2,"2010, 2019"
+bidder return,2,"1993, 2008"
+stigma,2,"2015, 2017"
+hansen-jagannathan distanc,2,"2001, 2010"
+jump-risk premium,2,"2002, 2011"
+strip,2,"1997, 2000"
+cross-bord lib,2,"2004, 2007"
+social connect,2,"2012, 2014"
+cross-bord invest,2,"2009, 2011"
+capit barri,2,"1994, 1999"
+habit format,2,"2006, 2011"
+corpor disclosur,2,"2013, 2017"
+social interact,2,"2012, 2015"
+compound poisson jump,2,"2012, 2015"
+transact fe,2,2018-2019
+g28,2,"1996, 2003"
+multin firm,2,"2004, 2008"
+lawsuit,2,1994
+cost of equiti capit,2,"1999, 2009"
+confid,2,"2014, 2019"
+cost of debt financ,2,"1999, 2013"
+tradeoff theori,2,"2006, 2015"
+asian financi crisi,2,"2006, 2012"
+stockholder–bondhold conflict,2,"1999, 2005"
+mortgage-back secur,2,2013-2014
+fundament analysi,2,"2001, 2018"
+trade-s clust,2,"2005, 2007"
+mortgag back secur,2,"2012, 2019"
+stabil,2,1993-1994
+law and econom,2,"2005, 2013"
+prefer trad,2,"1996, 2015"
+trade-off theori,2,"2009, 2012"
+prepack,2,"1996, 2000"
+govern debt,2,2019
+layoff,2,"1997, 2008"
+stakehold,2,"2011, 2016"
+misvalu,2,2017-2018
+portfolio hold,2,"2007, 2017"
+govern polici,2,"2013, 2019"
+govern ownership,2,"2010, 2015"
+portfolio flow,2,2001-2002
+corpor structur,2,"2000, 2002"
+mortgag market,2,"2016, 2019"
+board regul,2,"2010, 2014"
+futur pric,2,2012-2013
+strateg asset alloc,2,"2003, 2018"
+premium,2,"1996, 2017"
+state pension fund,2,"2016, 2020"
+special dividend,2,"2000, 2014"
+liquid premium,2,"1993, 2006"
+credit crunch,2,2011-2012
+credit crisi,2,2011-2012
+group,2,"2008, 2019"
+condit beta,2,"2008, 2019"
+specialist,2,"1999, 2002"
+corpor innov,2,"2015, 2019"
+friction,2,"2005, 2016"
+predict of stock return,2,2012
+front-run,2,2003
+labor union,2,"2009, 2013"
+liquid common,2,"2008, 2014"
+specif test,2,"2007, 2010"
+portfolio,2,"1993, 2004"
+board,2,"2005, 2008"
+state price dens,2,2000-2001
+ladder,2,2007
+corpor jet,2,"2006, 2014"
+liquid constraint,2,"2012, 2019"
+time inconsist,2,"2007, 2013"
+misreport,2,"2006, 2013"
+board connect,2,"2012, 2019"
+spillov effect,2,"2012, 2016"
+board effect,2,"2009, 2018"
+consum financi protect,2,"2012, 2019"
+wholesal fund,2,"2010, 2015"
+counterparti credit risk,2,"2012, 2019"
+great recess,2,2018-2019
+great depress,2,"2014, 2019"
+consumption-bas model,2,"2016, 2019"
+money market fund,2,"2016, 2018"
+debt restructur,2,"1995, 2015"
+agenc cost of debt,2,"2003, 2008"
+subprim,2,"2009, 2012"
+asset tangibl,2,"2010, 2015"
+default correl,2,2017-2018
+share issuanc,2,"2009, 2011"
+share pric,2,"1997, 2006"
+investor clientel,2,"2005, 2019"
+bermudan swapt,2,"2001, 2005"
+flight to liquid,2,"2005, 2013"
+flight to qu,2,2012
+limit liabil,2,"2015, 2018"
+decis author,2,"2003, 2012"
+decim,2,"2001, 2004"
+investor experi,2,"2016, 2019"
+contest,2,"1999, 2006"
+flip,2,"2003, 2008"
+investor heterogen,2,"2002, 2010"
+bond market,2,"2016, 2020"
+bond ipo,2,"1999, 2009"
+communic,2,"2010, 2017"
+capit market,2,"1998, 2011"
+stock off,2,"2004, 2009"
+communiti bank,2,"2003, 2012"
+glass-steag,2,"1996, 2004"
+sharehold heterogen,2,"2005, 2011"
+new issu puzzl,2,2000
+apprais ratio,2,"2011, 2019"
+high frequenc data,2,"2006, 2013"
+limit commit,2,"2015, 2019"
+investor recognit,2,"2009, 2013"
+investor bas,2,"2013, 2016"
+trend chas,2,"2009, 2011"
+gmm,2,"2003, 2006"
+asset valuat,2,"1997, 2008"
+model risk,2,"2005, 2015"
+bond opt,2,"1995, 1997"
+pin,2,"2012, 2014"
+deriv secur,2,2000-2001
+limit particip,2,2010-2011
+deregul,2,"1995, 2010"
+limits-to-arbitrag,2,"2005, 2011"
+model misspecif,2,"2001, 2019"
+depth,2,"2000, 2004"
+invest spik,2,"2011, 2018"
+depositari receipt,2,"1999, 2008"
+contractu incomplet,2,"2007, 2015"
+common,2,"2012, 2019"
+production-bas asset pric,2,"2007, 2013"
+linear factor model,2,"2014, 2016"
+trmi,2,"2015, 2019"
+contribut capit,2,"2006, 2020"
+delta hedg,2,"2000, 2014"
+investment-bas asset pric,2,"2010, 2013"
+delist,2,"2011, 2017"
+control,2,"2000, 2006"
+limit of arbitrag,2,"2013, 2015"
+loan modif,2,"2011, 2018"
+no-arbitrag model,2,"2013, 2018"
+defin benefit pension plan,2,"2006, 2018"
+nexus of contract,2,"2007, 2013"
+manageri discret,2,"1996, 2012"
+investor activ,2,2008-2009
+glass–steag,2,1999
+debt polici,2,2002-2003
+startup,2,"2013, 2019"
+debt overhang,2,"2002, 2009"
+arbitrag price theori,2,"2001, 2008"
+asset return,2,"2013, 2016"
+capit gain tax,2,"1999, 2003"
+post-earnings-announc drift,2,"2002, 2006"
+irrev,2,"2001, 2004"
+short-sal cost,2,"2012, 2016"
+irrevers invest,2,"2000, 2007"
+bondhold,2,"2010, 2016"
+privat debt,2,"2003, 2016"
+heterogen,2,"2001, 2008"
+theori of firm,2,"2014, 2018"
+treasuri auct,2,"1994, 2002"
+momentum trad,2,2005-2006
+short-term,2,"2009, 2015"
+coordin failur,2,"2013, 2020"
+japan,2,"1997, 2013"
+foreclosur,2,"2011, 2018"
+short-term interest r,2,2002-2003
+margin requir,2,"2006, 2014"
+currenc risk,2,"1998, 2007"
+privat benefit,2,"2006, 2014"
+structur product,2,"2011, 2020"
+currenc opt,2,2007-2008
+japanes corpor govern,2,"1995, 1997"
+network centr,2,2014-2015
+asset growth,2,"2011, 2013"
+nation bank era,2,2017-2018
+hfts,2,2016-2017
+post-earn announc drift,2,"2006, 2009"
+short,2,"2002, 2012"
+theori of the firm,2,"2009, 2011"
+stock market liquid,2,"2009, 2018"
+currenc,2,"2012, 2018"
+follow-on off,2,"2010, 2017"
+stock market crash,2,"1998, 2012"
+compens contract,2,"1998, 2014"
+life cycl sav,2,"2012, 2016"
+convex,2,"2000, 2013"
+debt coven,2,"2002, 2016"
+portfolio perform,2,1995-1996
+momentum strategi,2,"2003, 2005"
+activ investor,2,"1996, 2001"
+capit invest,2,"2011, 2016"
+convert,2,"2004, 2018"
+convert bond,2,"1998, 2016"
+portfolio invest,1,2001
+market and fund liquid,1,2012
+pay–perform sensit,1,2002
+payment for order flow,1,2004
+portfolio optim,1,2003
+pay–perform relationship,1,2000
+pay for luck,1,2006
+"payout policy,dividends,earn expect",1,2020
+payrol growth,1,2011
+portfolio turnov,1,2017
+market of secur,1,2010
+ventur capit portfolio,1,2020
+portfolio tilt,1,1996
+mark to market,1,2015
+"ventur capital,entrepreneurship,inform asymmetry,new ventur competit",1,2020
+margin propens to consum,1,2007
+pay frequenc,1,2013
+market micro-structur,1,1994
+portfolio sort,1,2010
+portfolio inertia,1,2016
+payment method,1,2018
+pay-for-perform,1,2001
+market microstructur noi,1,2013
+pay-for-perform sensit,1,2011
+market mechan,1,2014
+payout cho,1,2000
+portfolio return,1,2015
+paycheck frequenc,1,2013
+portfolio rebalanc,1,2019
+volatil proxi,1,2007
+portfolio insur,1,2011
+payday loan legisl,1,2013
+piecem liquid,1,2008
+pca,1,2019
+polit bia,1,2016
+polici arbitrag,1,2019
+polici risk,1,2012
+polici uncertainti,1,2018
+perform smooth,1,2004
+perform rank,1,2019
+"polit access,firm value,govern contracts,regulatori relief",1,2020
+polit activ,1,2013
+market frag,1,2015
+volatil amplif,1,2001
+polit align between top manag and director,1,2014
+market govern,1,2005
+poisson jump,1,2004
+polit competit,1,2014
+perform fe,1,2004
+volatil clust,1,2015
+market imperfect,1,2013
+young firm,1,2013
+vest period,1,2014
+perform chang,1,2003
+volatil compon,1,2014
+market distort,1,2019
+polit contribut,1,2012
+poisson regress,1,2019
+performance-bas fe,1,2018
+percol,1,2014
+pay,1,1995
+physic measur,1,2013
+physic invest,1,2012
+philat,1,2011
+pipe,1,2017
+philanthropi,1,2009
+pharmaceut industri,1,2006
+place,1,2000
+vix etn,1,2017
+person tax,1,2013
+point-in-tim,1,2018
+persist in volatil,1,2016
+performance-sensit debt,1,2013
+market for execut,1,2013
+vix futur,1,2017
+vix,1,2014
+yield volatil,1,2018
+"perman normal trade relations,china-rel experience,board structure,advisori role,director labor market",1,2020
+poison put,1,2001
+perman compon,1,2012
+period,1,2008
+market for inform,1,2018
+voic,1,2019
+polit control,1,2014
+zero leverag,1,2013
+"market manipulation,structur equiti products,equity-link securities,delta hedging,pre-trad hedging,pric impact",1,2020
+peer,1,2014
+"ventur capital,performance,monitoring,selection,status",1,2020
+pool regress,1,2020
+yield spread,1,1999
+poor monitor index,1,2018
+popular,1,2009
+market competit,1,2017
+portfolio alloc,1,2018
+peer firm,1,2015
+peer effect and strateg complementar,1,2010
+volatil of volatil,1,2017
+portfolio autarki equilibrium,1,2007
+penalti,1,2008
+portfolio balanc,1,2019
+market break-down,1,2015
+"portfolio choice,dynam models,transact costs,stochast volatility,pric impact,risk-parity,mean-vari",1,2020
+market manipul,1,2011
+portfolio compani,1,2017
+peculiar equilibrium,1,2007
+portfolio deci,1,2012
+portfolio diversif,1,1994
+portfolio effici,1,1998
+volatil persist,1,2009
+pool,1,1995
+zero return,1,2011
+market lib,1,2002
+perceiv valuat,1,2019
+market discount,1,2007
+vertic integr,1,2011
+volatil dynam,1,2019
+polit cycl,1,2013
+percentag commiss contract,1,2005
+market linkag,1,1998
+vertic divestitur,1,2011
+polit geographi,1,2012
+polit institut,1,2010
+ventur debt,1,2018
+polit of financi market,1,2014
+penalti bid,1,2003
+polit pref,1,2011
+"pension plans,fees,disclosure,mutu funds,sali",1,2020
+polit promot,1,2014
+market design,1,2017
+pension freez,1,2018
+pension beneficiari,1,2016
+polit sensit firm,1,2017
+volatil feedback,1,2007
+polit valu,1,2012
+politicians–firm relat,1,2014
+pay distribut,1,2011
+"optim short- and long-termism,ag conflicts,multitask",1,2020
+market ord,1,2003
+nake short sel,1,2014
+name manag,1,2010
+micro data,1,2017
+narrow fram,1,2010
+nasd dealer market,1,1997
+wealth relat,1,2013
+nasdaq market,1,1997
+nasdaq market mark,1,1996
+nativ american reserv,1,2019
+natur disast,1,2011
+natur languag process,1,2019
+negat averag option return,1,2010
+negat skew risk,1,2013
+negat stub valu,1,2011
+neglect risk,1,2016
+method of pay,1,2011
+microsoft,1,2000
+naiv expect,1,1997
+merton model,1,2012
+myopic extrapol,1,2014
+minimum distanc estim,1,2015
+weather,1,2016
+mutual fund design,1,1999
+mutual fund famili,1,2020
+miller-modigliani,1,2008
+militari,1,2015
+mutual fund fe,1,1996
+mild segment market,1,2011
+mutual fund hold,1,2010
+mutual fund industri,1,2005
+mida,1,2005
+mutual fund redempt,1,2010
+mutual fund tourna,1,2012
+"mutual fund,manager,compensation,incentives,competition,cooperation,cross-holding,performance,cross-subsidization,intern capit market",1,2020
+world wide web,1,2002
+net proc,1,2001
+writedown,1,1994
+municip,1,2018
+new media,1,2012
+new product,1,2017
+new product develop,1,2006
+new product introduct,1,2019
+new senti,1,2015
+new technolog bubbl,1,2008
+new ventur,1,2010
+merger & acquisit,1,2015
+no-arbitrag pric,1,2007
+no-trad equilibrium,1,2007
+nois trad,1,1998
+nomin pric,1,2016
+nomin rigid,1,2018
+non-execut,1,2001
+wash sal,1,2004
+non-fundament risk,1,2011
+new money flow,1,2013
+wealth,1,2018
+network analysi,1,2019
+new issu,1,2007
+network format,1,2015
+wealth effect,1,2001
+network organ,1,1997
+neural network,1,2006
+merger gain,1,2018
+merger arbitrag,1,2002
+new common,1,2015
+wealth creat,1,2018
+"merger and acquisitions,priv benefit of control,structur estim",1,2020
+new director appoint,1,2010
+merger and acquisit (m&a),1,2008
+new economi,1,2002
+new embargo,1,2016
+wealth constraint,1,2015
+new firm,1,2013
+minimum pay,1,2019
+multivari garch,1,1998
+pax britannica,1,2006
+model comparison,1,2019
+winner curs,1,1993
+money market,1,2011
+wine pric,1,2015
+monitor fe,1,2018
+monitor inc,1,2017
+monopoli,1,2000
+monoton declin price kernel,1,2010
+monoton test,1,2010
+monte-carlo simul,1,1999
+moody׳,1,2014
+window-dress,1,2004
+moral suas,1,2015
+mortal risk,1,2012
+mortgag cho,1,2009
+mortgag compani,1,2016
+money manag,1,2011
+money illus,1,2017
+mortgag decis mak,1,2017
+money fund,1,2017
+withdrawn merger and acquisit,1,2014
+model-bas regul,1,2019
+model-fr,1,2015
+withdrawn ipo,1,2009
+momentum profit,1,2019
+withdrawn off,1,2009
+momentum return,1,2012
+momentum rev,1,2012
+"momentum spillovers,cross-asset momentum,cf momentum,link firms,analyst co-coverag",1,2020
+monetari condit,1,2010
+monetari econom,1,2015
+wisdom of crowd,1,2018
+monetari polici spillov,1,2019
+monetari polici transmiss,1,2015
+money,1,2014
+model bia,1,2002
+mortgag default,1,2015
+multipl stock class,1,1995
+multifactor,1,2010
+misconduct,1,2016
+multifrequ new,1,2007
+misalloc,1,2016
+multilater negoti,1,2001
+multin,1,2017
+multin compani,1,2006
+multin corpor,1,2019
+multipl asset,1,1997
+minor sharehold,1,1998
+world war i,1,2005
+multipl blockhold,1,2018
+multipl directorship,1,2014
+minimum tick,1,2001
+multipl prior,1,2015
+multipl riski asset,1,2001
+worker right,1,2019
+miss data,1,1997
+mortgag deriv,1,2000
+multibeta capm,1,1997
+mortgag refinanc,1,2014
+mix frequenc data,1,2015
+mortgag securit,1,2018
+mortgag serv,1,2018
+mitig mechan,1,2019
+misspecif,1,1999
+weight averag cost of capit,1,2016
+web traff,1,2003
+movabl collat,1,2017
+move averag,1,2016
+mts bond market,1,2016
+multi-bank borrow,1,2016
+multi-factor gaussian model,1,2001
+multi-factor libor market model,1,2001
+multi-market trad,1,2010
+non-standard monetari polici measur,1,2016
+non-tax cost,1,2010
+mental account,1,2005
+option valu,1,2010
+order execut qu,1,2005
+markov-switch model,1,2004
+market-feedback hypothesi,1,1993
+"volatility-manag portfolios,portfolio cho",1,2020
+order-split,1,2019
+organ capit,1,2017
+organiz capit,1,2011
+market volatil dynam,1,2006
+market transpar,1,2006
+volatil term structur,1,2008
+organiz network,1,2015
+otc market,1,2012
+otc vs. exchang,1,2012
+yield curv model,1,2019
+yield impact,1,2016
+option-impli mo,1,2013
+option trade volum,1,2016
+volatil specul,1,2011
+option to withdraw,1,2001
+volum imb,1,2016
+match estim,1,2010
+option compen,1,2007
+match crsp and compustat,1,1995
+option gam,1,2008
+option lif,1,2010
+volcker rul,1,2018
+option market mak,1,2019
+match,1,2015
+option price theori,1,2011
+option price with vuln,1,2019
+martingal regress,1,2015
+option realiz volatil,1,2016
+marriag,1,2016
+"option returns,volatil seasonality,behavior finance,intraday data",1,2020
+otcbb,1,2015
+out-of-sampl forecast,1,2004
+noncognit abil,1,2018
+volatil skew,1,2013
+panic,1,2012
+market predict,1,2013
+paramet stabil,1,2004
+parent and child ord,1,2019
+parent compani,1,2013
+parent-subsidiari merg,1,1998
+volatil risk premia,1,2016
+partial lend,1,2019
+particl filt,1,2019
+partnership,1,2019
+passiv fund,1,2016
+passiv manag,1,2017
+patent trol,1,2019
+market portfolio,1,2001
+market particip,1,2014
+panel data,1,2011
+market price risk,1,2016
+outsid directorship,1,1996
+ownership pyramid,1,2013
+outsourc,1,2018
+market senti,1,2010
+over-the-count financi market,1,2017
+over-the-count market,1,2016
+over-the-count trad,1,2017
+market scrutini,1,2009
+overpay,1,2012
+volatil smiles and smirk,1,2002
+overvalu,1,2013
+own-compani stock puzzl,1,2016
+market risk premium,1,2008
+volatil smil,1,2011
+ownership disp,1,1996
+ownership dynam,1,2009
+market reform,1,2002
+optim stop,1,2007
+model select,1,2010
+optim regul,1,1998
+wage bargain,1,2019
+npes,1,2019
+nrsro,1,2016
+media concentr,1,2011
+number of trad,1,2000
+numer valuat techniqu,1,1999
+mechan design,1,2001
+measur chang,1,2004
+voucher,1,1994
+nyse rule 118,1,2004
+mean–vari analysi,1,2011
+odd lot,1,2005
+odd-eighth quot,1,1999
+"off-bal sheet funding,voluntari support,signaling,limit liability,optim fund mod",1,2020
+off-the-run bond,1,2009
+offer,1,2005
+nowcast,1,2015
+norwegian bank crisi,1,2003
+optim portfolio,1,2011
+norm,1,2015
+noncompetit market,1,2006
+nonexpect util model,1,2006
+nonfundament comov,1,2016
+nonidentifi,1,1999
+medium of exchang,1,2016
+noninterest incom shar,1,2010
+media sl,1,2018
+media lockup,1,2016
+portfolio under-diversif,1,2016
+nonlinear dynam,1,2014
+nonlinear inc,1,2013
+nonmonetari compen,1,2020
+nonparametr test,1,2010
+nontransfer opt,1,1998
+media coverag,1,2014
+mean-vari relat,1,2011
+offer s,1,2009
+offer-term adjust,1,2003
+offic and director,1,2019
+open-end,1,2003
+voluntari clawback,1,2013
+max squar sharp ratio,1,2018
+oper hedg,1,2017
+oper perform of small compani,1,1997
+matur structur,1,2003
+matur manag,1,2018
+opinion diverg,1,2013
+opportunist behavior,1,2017
+opportunist trad,1,2019
+matur cho,1,2005
+optim invest effect,1,2013
+volume–volatil relat,1,2000
+optim measur,1,2015
+optim order execut,1,2019
+open interest,1,1996
+maximum-likelihood estim,1,2006
+mbo,1,1996
+vote right,1,2006
+offshor bank,1,2017
+mean-vari analysi,1,2003
+offshor op,1,2017
+oil and gas firm,1,2016
+oil and gas product,1,2013
+oil pric,1,2008
+vote premium,1,2003
+open,1,2015
+on-the-run bond,1,2009
+one-share–on vot,1,2000
+one-stop bank,1,2007
+onlin trad,1,2002
+mean rev,1,2019
+opaqu market,1,2017
+nonlinear drift restrict,1,2019
+raroc,1,2015
+portfolio weight,1,2002
+tradeoff model,1,2020
+transact cost of momentum,1,2015
+specul trad,1,2018
+"speculation,lottery,earn announcements,skew",1,2020
+speed of converg,1,2005
+sponsor support,1,2016
+tranch pric,1,2020
+spread premium,1,2014
+spread relat to opt,1,2012
+spurious regressor,1,2014
+spurious risk factor,1,2019
+specialist inventori,1,2007
+squeez,1,2005
+squeeze-out,1,2006
+sri,1,2012
+stac,1,2001
+stage financ,1,2011
+stage of capit,1,2012
+trade-at rul,1,2018
+stakehold relationship,1,2017
+stakehold theori,1,2013
+"specialness,repo market,asset purchases,money market",1,2020
+specialist firm,1,2004
+stamp,1,2011
+sophist asset class,1,2017
+social influenc,1,2012
+social institut,1,2011
+social learn,1,2015
+social secur,1,2015
+transit densiti funct,1,2014
+social status,1,2017
+socioeconom status,1,2017
+soe bandit,1,1999
+transient,1,2017
+south sea bubbl,1,2013
+specialist and dealer market,1,2004
+transfer pric,1,2020
+sovereign debt r,1,2019
+transact volum,1,2008
+sovereign default,1,2018
+sovereign r,1,2015
+sox,1,2008
+span,1,2000
+spatial autoregress model,1,2014
+special repo r,1,2002
+trade system,1,1997
+standalon,1,2012
+posit feedback,1,2003
+stock alloc,1,2011
+stochast discount factor model,1,1999
+stochast risk av,1,2009
+stochast risk premium,1,2008
+stochast sequenti gam,1,2009
+stochast time chang,1,1998
+stochast time to expir,1,2004
+trade polici,1,2018
+stochast volatil model,1,2000
+trade perform,1,2012
+stock exchang of hong kong,1,2001
+trade relationship,1,2017
+stock gift,1,2009
+stock inc,1,2001
+stock issu,1,2009
+stock liquid,1,2017
+stock liquid common,1,2015
+stock market,1,2013
+stock market autocorrel,1,2016
+stock market competit,1,2000
+stock market failur,1,1999
+trade react,1,2007
+stochast differenti util,1,2015
+standard and poor,1,1998
+state-pric dens,1,2000
+standbi underwrit,1,1997
+start-up,1,2015
+state antitakeov law,1,2010
+state depend,1,2007
+state guarant,1,2011
+trade spe,1,2006
+state law,1,2007
+state variabl,1,2016
+state-level busi cycl,1,2019
+static tradeoff theori,1,1999
+trade report facil,1,2015
+stationari equilibrium,1,2009
+trade secret,1,2018
+statist arbitrag,1,2004
+statist model,1,2015
+status inc,1,2020
+stealth trad,1,2007
+stealth-trad,1,2001
+stimulus,1,2014
+stochast control,1,2004
+social capit,1,2019
+smm,1,2013
+smb,1,2018
+trend,1,2016
+seo issuanc cost,1,2017
+separ of ownership and control,1,1997
+sequenti financ,1,1998
+serendipit inform,1,2018
+serial correl,1,2004
+serial depend,1,2005
+settling-up,1,2003
+shale boom,1,2015
+share alloc,1,1995
+share turnov,1,1998
+sentiment-driven fluctuat,1,2016
+sharehold,1,2016
+treasuri suppli,1,2015
+"sharehold activism,corpor governance,merg and acquisitions,empir building,hedg fund",1,2020
+sharehold att,1,2020
+sharehold conflict,1,2017
+sharehold coordin,1,2013
+sharehold empow,1,2017
+sharehold expropri,1,2003
+sharehold lawsuit,1,2004
+seo alloc,1,2009
+sensat seek,1,2017
+small-cap stock,1,1999
+self-control problem,1,2013
+secur underwrit,1,2010
+secur valuat,1,2003
+securit bond,1,2012
+securit financ,1,2020
+segment market,1,2008
+select,1,2019
+select model,1,2008
+self control,1,2007
+self- and mutual excit process,1,2015
+self-employ,1,2015
+semi-vari,1,2004
+self-enforc contract,1,2012
+self-fulfil busi cycl,1,2016
+self-select,1,1995
+self-tend off,1,1998
+sell-off,1,1995
+sell-sid analyst,1,2008
+sell-sid research,1,2001
+truncat dilemma,1,2005
+selloff,1,2011
+sharehold litig,1,2010
+sharehold pref,1,2011
+sharehold protect,1,2002
+size puzzl,1,2017
+sign bonus,1,2016
+signal hypothesi,1,1993
+signal-jam,1,2003
+simul maximum likelihood,1,2003
+sin stock,1,2009
+treasur bond,1,1995
+size effect,1,2004
+size of trad,1,2000
+size premium,1,2018
+size-heterogen,1,2011
+sharehold protect law,1,2016
+trap,1,2019
+skew premium,1,2015
+skew risk,1,2013
+slope,1,2011
+transitori compon,1,2012
+small and medium-s enterpri,1,2008
+small busi manag,1,2019
+small firm,1,2008
+small sampl bia,1,1997
+side-by-sid manag,1,2018
+short-term underreact,1,2017
+short-term trad,1,1998
+short-term risk,1,2019
+treasuri strip,1,2000
+sharehold right,1,2013
+shareholder-subscript,1,1997
+treasuri return,1,2011
+shelf registr,1,2017
+short cov,1,2012
+short fe,1,2019
+treasuri market,1,2009
+short sale constraint,1,2010
+short sale restrict,1,2004
+"treasuri float rate notes,mark-to-market stability,asset price premia,conveni yield,money market fund",1,2020
+short squeez,1,2011
+short term,1,2005
+treasuri bond market,1,2009
+short-sal restrict,1,2012
+short-sel ban,1,2019
+short-sel restrict,1,2017
+short-sw rul,1,1995
+"short-term debt financing,rollov risk,risk-taking,financ frict",1,2020
+stock market index,1,2019
+stock market list,1,2017
+trade paus,1,2019
+technolog chang,1,2007
+tax-clientel effect,1,2017
+tax-deferr,1,2014
+tax-loss sel,1,2004
+tax-loss trad,1,2004
+tax-motiv trad,1,2009
+taylor rule residu,1,2016
+team,1,2013
+technic trad,1,2012
+tobin\,1,2013
+technolog clos,1,2019
+tax uncertainti,1,2017
+technolog momentum,1,2019
+technolog progress,1,2012
+technolog shock,1,2009
+technolog spillov,1,2015
+technolog transf,1,2006
+temporari and perman incom shock,1,2014
+term auction facil,1,2015
+term premia,1,2019
+term premium,1,2001
+too-big-to-fail,1,2017
+tax spread,1,2007
+takeup,1,2008
+track stock,1,2000
+tangibl asset,1,2013
+target abnorm return,1,2008
+target leverag,1,2004
+tradabl,1,2018
+target share repurcha,1,2005
+target stock,1,2001
+"track trades,return predictability,institut trading,insid trad",1,2020
+tast,1,2007
+tast shock,1,2006
+tax and portfolio cho,1,2002
+tax shield,1,2016
+track error constraint,1,2013
+toxic asset,1,2010
+tournament inc,1,2012
+tax benefit,1,2012
+tax capit,1,2011
+tax distort,1,2018
+tax exempt,1,2018
+tax haven,1,2013
+tax shelt,1,2006
+tobin tax,1,2018
+term structur model,1,2000
+term structur of credit spread,1,2005
+time between success d,1,2013
+three-factor model,1,2012
+threshold regim switch model,1,2014
+thrift,1,2002
+"tick size pilot,liquidity,inform risk,pric efficiency,new response,investor horizon,liquid risk,liquid premium,cost of capital,job act,sec",1,2020
+time-vari invest opportun,1,2013
+tick test,1,2020
+tight,1,2015
+time,1,2005
+time abil,1,2001
+time chang,1,2015
+term structur of equ,1,2016
+time seri,1,2009
+time seri and cross-sect consist,1,2016
+time seri momentum,1,2020
+time to build,1,2000
+time trend,1,2017
+time variat in risk and return,1,2009
+time-prefer shock,1,2019
+time-to-produc,1,2016
+time-vari,1,2009
+threat of entri,1,2018
+thin capit,1,2019
+theil-sen,1,2018
+the split-shar structur reform,1,2014
+tobacco,1,2008
+term structur of real interest r,1,2011
+"term structure,bond risk premia,fisc policy,uncertainti",1,2020
+term weight,1,2013
+term-structur model,1,2009
+time-vari risk pric,1,2001
+termin,1,2011
+termin agr,1,2009
+termin risk,1,2016
+time-vari moment of return,1,2004
+"terrorism,risk preference,risk aversion,viscer emotions,mutu fund flow",1,2020
+terrorist attack,1,2020
+time-vari manageri skil,1,2006
+text analysi,1,2018
+text-bas analysi,1,2017
+textual analysi,1,2013
+textual ton,1,2019
+thailand,1,1994
+the discount r,1,2010
+talent,1,2019
+takeov premia,1,1995
+stock market return,1,2011
+strateg disclosur,1,2012
+strateg behavior,1,2002
+strateg bidd,1,2019
+trade in bankruptci,1,2016
+trade hour,1,1995
+strateg commun,1,2005
+strateg compl,1,1996
+strateg complementar,1,2018
+strateg corpor deci,1,2018
+strateg default,1,2017
+strateg inc,1,2009
+strateg advi,1,2011
+strateg interact,1,1995
+strateg invest,1,2002
+strateg price competit,1,2005
+strateg substitut,1,1996
+strateg trad,1,2006
+strateg uncertainti,1,2008
+strategi,1,1995
+stress test,1,2019
+"stress tests,smal busi lending,financi crisi",1,2020
+trade limit,1,2014
+stock-for-stock merg,1,1998
+takeov of exchang,1,2006
+trade pattern,1,2007
+stock market volatil,1,2007
+stock option contract design,1,2011
+stock option vest,1,2012
+stock overvalu,1,2013
+stock ownership,1,2014
+stock pay,1,2018
+stock price clust,1,2005
+"stock price informativeness,tfp,firm effici",1,2020
+stock price synchron,1,2010
+trade off theori,1,2012
+stock-bond relationship,1,1996
+stock return anomali,1,2015
+stock return asymmetri,1,2002
+stock return comov,1,2015
+stock return momentum,1,2017
+trade network,1,2018
+stock return synchron,1,2014
+stock return volatil,1,2004
+trade market varianc,1,2011
+stock-bas pay,1,2003
+structur break,1,2004
+structur break test,1,2002
+structur debt,1,2015
+system bank cris,1,2014
+survivorship bia,1,1999
+swap pric,1,1997
+swap rat,1,2008
+swaption cub,1,2014
+switch,1,2008
+synchron risk,1,2002
+syndic lend,1,2009
+"trade costs,perform evaluation,mutu funds,market effici",1,2020
+synergi gain,1,2017
+system ev,1,2017
+trade halt,1,2017
+systemat and idiosyncrat risk,1,2012
+systemat skew,1,2020
+systemat vs. idiosyncrat risk,1,2008
+t distribut,1,2004
+trade continu,1,2009
+takeov bid,1,2018
+takeov contest,1,2015
+trade classif,1,2016
+takeov law,1,2003
+survey forecast,1,2012
+trade effici,1,2017
+survey,1,2001
+surplus consumpt ratio,1,2015
+structur invest vehicl (siv),1,2013
+structur provi,1,2015
+structur uncertainti,1,2010
+student loan,1,2019
+style,1,2004
+trade frenzi,1,2013
+trade execut cost,1,1997
+sub-advisor,1,2018
+subgam perfect equilibria,1,2001
+subject expect,1,2010
+subprim cdo,1,2010
+subsidi,1,2008
+subsidiari debt,1,2009
+success,1,2013
+sudden death,1,2010
+sunshin trad,1,2016
+supermodular gam,1,2010
+supervisori model,1,2013
+suppli effect,1,2013
+secur trad,1,2005
+"secur regulation,foreign portfolio investment,regulatori bond",1,2020
+secur money market lend,1,2017
+quadrat jump-diffus,1,2016
+purchas pow,1,2007
+pyramid group,1,2002
+q,1,2018
+q ratio,1,1997
+q theori of invest,1,2012
+valuat error,1,2004
+q-factor model,1,2018
+valuat differenti,1,2013
+quad,1,2014
+quadrat term structur,1,2016
+public trade equ,1,2008
+"quadratic-gaussian term structur models,infl risk premium,survey forecasts,hidden factor",1,2020
+qualiti,1,2018
+qualiti invest,1,2013
+qualiti of institut,1,2005
+valu of inform,1,2014
+valu of cash,1,2011
+quantil regress,1,2016
+valu invest,1,2015
+quasi-maximum likelihood estim,1,1999
+purcha,1,1995
+public subsidi,1,2016
+proprietari cost,1,2017
+prudent-man regul,1,1996
+value-reduc acquisit,1,2011
+proprietari inform,1,2016
+prorat,1,2003
+protect,1,2000
+"protectionism,corpor governance,merg and acquisitions,execut compensation,fre cash flow problem",1,2020
+proxi access,1,2011
+proxi advisor,1,2019
+proxi reform,1,2010
+proxim to sharehold,1,2011
+psychic return,1,2015
+public pension fund,1,2008
+psycholog and econom,1,2007
+public bond,1,2019
+valuat uncertainti,1,2009
+public debt pric,1,1999
+public disclosur,1,2020
+public financ,1,2020
+public impact,1,2020
+public inform and media coverag,1,2006
+"public information,new release,asymmetr information,liquid",1,2020
+valu improv,1,2005
+quot,1,1996
+util maxim,1,1998
+real term structur,1,1994
+rational-expect equilibrium,1,2020
+reach for yield,1,2018
+reaching-for-yield,1,2015
+readabl,1,2017
+real and nomin yield,1,2018
+real econom activ,1,2011
+real effect,1,2019
+real estat ag,1,2019
+real exchang r,1,2018
+real-tim corpor sal,1,2017
+quot aggress,1,2004
+real-tim trade report,1,2016
+realiz and option impli volatil,1,2013
+realiz variat,1,2014
+unreal capit gain,1,2011
+rebat r,1,2004
+recess,1,2013
+reconstitut,1,2000
+recoveri r,1,2014
+recoveri theorem,1,2019
+ration specul bubbl,1,2019
+upper bound,1,1997
+ration learn model,1,2010
+ration bubbl,1,2015
+quot round,1,1997
+quota,1,2013
+quotat strategi,1,2003
+r&d invest,1,2012
+r&d product,1,2017
+race,1,2012
+random discontinu,1,2020
+util cost,1,1999
+random field,1,2004
+random time chang,1,2004
+useless factor,1,1999
+rank test,1,2019
+rank-depend util,1,2013
+upstair market,1,2004
+rate accuraci,1,2013
+rate agenc,1,2013
+rate inflat,1,2015
+rate trigg,1,2006
+ration,1,1996
+var,1,2015
+proport varianc dynam,1,2016
+redempt g,1,2011
+price crash,1,2019
+prepay penalti,1,2013
+present valu,1,2015
+present valu test,1,2019
+press,1,2008
+prestig,1,2019
+price and locat deci,1,2005
+price bubbl,1,2013
+price continu,1,2007
+price contribut analysi,1,2018
+price delay,1,2012
+preferenc,1,1998
+price discret,1,1998
+price discrimin,1,2000
+price distort,1,2014
+price effici,1,2017
+price elast of demand,1,1995
+variance-swap pric,1,2013
+price index,1,2015
+varianc swap,1,2016
+price momentum,1,2006
+preferenti lend,1,2008
+prefer stock,1,2010
+properti right institut,1,2019
+precious met,1,2019
+posit feedback trad,1,1999
+post-acquisit perform,1,1998
+post-bankruptci perform,1,2003
+post-issu perform,1,2007
+post-merg perform,1,2011
+post-new drift,1,2018
+power,1,2010
+pre-averag,1,2014
+precautionari motiv,1,2011
+predatori trad,1,2016
+prefer heterogen,1,1996
+vega-gamma-vanna-volga,1,2016
+predict densiti of consumpt growth,1,2010
+predictability-bas decis rul,1,2013
+predictor,1,1998
+preemption,1,2017
+preemptiv bid,1,2014
+preemptiv right,1,2010
+prefer,1,2019
+prefer habitat,1,2013
+price of conting claim,1,2000
+price qu,1,2007
+price recoveri,1,2017
+product economi,1,2013
+varianc,1,1995
+variabl of return,1,2011
+"privat firm,mutu fund,ipo",1,2020
+variabl disast,1,2013
+privat loan,1,2019
+privat money,1,2018
+privat sector,1,2005
+prize link sav,1,2018
+probabl weight,1,2013
+product growth,1,2000
+price respon,1,1996
+product market relat,1,2012
+product market-financi market interact,1,2003
+product substitut,1,2019
+variabl attenu,1,2015
+profit of momentum strategi,1,2005
+program trad,1,1996
+project valuat,1,2001
+prop,1,2006
+properti insur,1,2008
+"privat equity,financi intermediation,co-investment,advers select",1,2020
+privat equiti plac,1,2005
+privat equiti perform,1,2014
+privat equiti firm,1,2010
+price set,1,2018
+price stabil,1,1996
+price synchron,1,2006
+price target,1,2005
+price volatil,1,2018
+pricing-kernel restrict,1,2007
+primari deal,1,2017
+princip compon,1,2001
+principal-ag,1,2004
+principal-ag model,1,2012
+prior,1,2010
+varianc risk premia,1,2016
+varianc premium,1,2015
+varianc decomposit,1,2002
+privat acquisit,1,2009
+privat compani,1,2013
+privat control benefit,1,2003
+varianc bound,1,2012
+privat equiti acquisit,1,2008
+unlist target,1,2007
+redeploy,1,2009
+secur market regul,1,2011
+underdiversif,1,2013
+risk-adjust discount r,1,2007
+risk-av,1,2013
+risk-fre return,1,2010
+risk-manag,1,2008
+risk-neutr r,1,2019
+risk-neutr valuat,1,2007
+risk-return tradeoff,1,2011
+risk-seek behavior,1,2012
+risk-shar,1,2006
+riski borrow,1,2013
+risk return tradeoff,1,2007
+risk–return trade-off,1,2017
+risk–return tradeoff,1,2007
+rival,1,2000
+rmbs,1,2018
+rmbs fraud,1,2019
+robust,1,2016
+roll critiqu,1,2010
+roll estim,1,2003
+rollov,1,2000
+risk tol,1,2014
+risk ret,1,2019
+revalu,1,2016
+"right to work,collect bargaining,unions,wag growth,invest",1,2020
+revel,1,2018
+revel bia,1,2005
+underwrit serv,1,2001
+revelatori price effici,1,2016
+revers effect,1,2010
+revi,1,2011
+riegle–n act,1,2003
+right,1,1997
+underwrit reput,1,1998
+underwrit network,1,2016
+"risk premium,capm,icapm,discount rates,hedg demand",1,2020
+underwrit fe,1,2009
+risk cultur,1,2016
+underwrit competit,1,2007
+risk load,1,1997
+underwrit centr,1,2016
+risk percept,1,2017
+risk pref,1,2016
+undervalu,1,2008
+risk premium estim,1,2019
+"ross recovery,stochast discount factor,risk-neutr density,transit state prices,phys probabl",1,2020
+uncov interest rate par,1,2014
+roth,1,2017
+two-tier board,1,2014
+season off,1,2005
+unbias,1,2011
+ucit,1,2005
+u-shap price kernel,1,2010
+sec enforc act,1,2013
+sec investig,1,1998
+sec registr,1,2010
+sec regul fd,1,2017
+sec rule 11ac1-5,1,2005
+secondari market for privat equiti fund,1,2019
+round lot,1,2005
+secondari off,1,2015
+secondari shar,1,2003
+section 16b,1,1995
+secur analysi,1,1995
+turn-of-the-year effect,1,2004
+secur and exchang commiss,1,2008
+secur debt,1,2001
+trust busi,1,2006
+secur market programm,1,2016
+uncertainti av,1,2017
+search cost,1,2017
+search and match frict,1,2011
+scenario-bas valuat,1,2016
+roundtrip cost,1,2020
+rule 144a,1,2000
+russia,1,2008
+russian default,1,2011
+s&p,1,2012
+s&p 500 and vix joint model,1,2019
+s-1 file,1,2013
+safe asset,1,2013
+"safe assets,priv money,repo,monetari policy,feder reserv",1,2020
+safe money-lik claim,1,2015
+safe-haven demand,1,2018
+sale and repurcha,1,2012
+sale of shar,1,1998
+uncov interest pariti anomali,1,2013
+save & loan,1,2001
+save and loan,1,2001
+save behavior,1,2007
+say on pay law,1,2016
+scarciti,1,2014
+reveal pref,1,2015
+"return volatility,seos,analyst forecast dispersion,trade-bas heterogen in beliefs,short sel",1,2020
+reduc rank regress,1,2015
+relationship capit,1,2005
+relat age effect,1,2019
+relat peer qu,1,2016
+relat perform,1,2012
+unit root,1,2006
+"relat perform evaluation,ceo compensation,ceo labor market",1,2020
+relat price adjust,1,2018
+relat wealth,1,2007
+relat wealth concern,1,2014
+relation-specif invest,1,2012
+relationship invest,1,1994
+reinvest,1,2009
+relationship lend,1,2007
+relationship-specif invest,1,2007
+relative-perform evalu,1,1995
+remodel,1,2014
+uniqu martingal measur,1,2001
+renounc,1,2008
+rent extract,1,2013
+rent seek,1,2016
+rent-seek,1,2016
+reit,1,2012
+reinsur,1,2001
+return varianc,1,2008
+univers quadratur,1,2014
+reduced-form model,1,2010
+ree model,1,2012
+refinanc point,1,2014
+refund,1,2001
+regim shift,1,2002
+regim switch,1,2017
+regime-switch,1,2002
+region stock exchang,1,1997
+regress,1,1999
+unitari board,1,2014
+reinforc learn,1,2014
+regul fair disclosur,1,2005
+regul s-k,1,2018
+regul sho,1,2020
+regulatori barri,1,2006
+regulatori captur,1,2016
+regulatori competit,1,2006
+regulatori forbear,1,2012
+regulatori reach,1,2013
+rehypothec,1,2019
+repatri,1,2007
+repeat gam,1,2017
+replac cost,1,2017
+unemploy risk,1,2013
+restrict stock,1,2003
+restruct,1,1994
+unicorn,1,2020
+unhedg risk,1,2003
+retail,1,2008
+retail intern,1,2018
+retain earn,1,2020
+retir incom,1,2014
+return co-mov,1,2019
+return on asset,1,1996
+repo contract,1,2002
+return on equ,1,2020
+return on sal,1,1996
+return perform,1,2008
+underwrit spread,1,2001
+return risk premia,1,2016
+return season,1,2006
+"return seasonality,investor mood,mood beta,market efficiency,anomali",1,2020
+return to merg,1,2008
+return to scal,1,2015
+restrict,1,2009
+resourc,1,2002
+residu risk,1,2012
+residu right,1,1999
+"repo,specialness,centr bank asset purchases,short-selling,market liquid and credit risk",1,2020
+report deci,1,2013
+uninsur deposit,1,2002
+repurchas agr,1,2017
+repurchas tender off,1,2007
+uninform subscrib,1,2003
+reput and relationship,1,2005
+uniform pric,1,2005
+reput capit,1,2018
+reput concern,1,2008
+reput inc,1,2020
+requir return to equ,1,2004
+resal debt,1,2018
+research and develop invest,1,2016
+reserv ord,1,2013
+reset,1,2000
+residenti brokerag,1,2005
+residu claim,1,1997
+unidentifi model,1,2019
+10-k file,1,2017
+invest manag,1,1999
+manipul trad,1,2009
+cross-list compani,1,2006
+credit reput,1,2016
+credit risk premium,1,2011
+credit risk protect,1,2001
+"credit shocks,soci unrest",1,2020
+credit shortag,1,2019
+credit spread puzzl,1,2013
+"credit spread puzzle,structur models,tail risk",1,2020
+"credit spreads,polici uncertainty,regul",1,2020
+credit union,1,2018
+credit-cliff dynam,1,2013
+creditor control,1,2016
+crise,1,2017
+crisi transmiss,1,2012
+cross network,1,2009
+cross rul,1,2004
+cross sect,1,2013
+cross system,1,2003
+cross-bord,1,2015
+cross-bord financi institut,1,2013
+cross-bord lend,1,2014
+cross-countri co-mov,1,2015
+cross-countri studi,1,2017
+cross-firm extern,1,2015
+credit relationship,1,2007
+credit market competit,1,2016
+credit line revoc,1,2014
+cream skim,1,1997
+cost sign,1,2017
+countercycl price-sensit,1,2007
+countercycl volatil,1,2007
+countri popular,1,2011
+coupon,1,2018
+"covenant,cov-lite,institut loans,control rights,credit agr",1,2020
+"cover interest rate parity,credit spread,debt issuance,foreign exchang rate hedging,limit of arbitrag",1,2020
+coverag,1,2017
+cox,1,1994
+cp-bill spread,1,2002
+credibl commit,1,2004
+credit enhanc,1,2001
+credit analyst,1,2016
+credit boom,1,2016
+credit bureaus,1,2013
+credit card,1,2019
+credit channel,1,2007
+credit contract,1,2013
+credit cycl,1,2018
+credit default model,1,2018
+credit default spread,1,2017
+"credit default swaps,exchang rates,credit risk,sovereign debt,contagion",1,2020
+cross-hold,1,2011
+cross-list premium,1,2008
+cost of extern financ,1,2007
+cross-list stock,1,2010
+currenc volatil,1,2013
+currency-rel risk factor,1,2013
+custom,1,2017
+custom concentr,1,2017
+customer-suppli,1,2018
+customer–suppli relat,1,2015
+customer–suppli relationship,1,2016
+cyclic,1,2018
+czech voucher schem,1,1997
+daili fund flow,1,2002
+data generat process,1,2004
+data snoop,1,1995
+deadweight loss,1,2010
+deal premium,1,2009
+deal-mak,1,2014
+dealer behavior,1,2020
+dealer firm,1,2003
+dealer inventori,1,2018
+dealer network,1,2017
+dealer trad,1,1998
+debt capac,1,2019
+debt capit structur,1,2019
+debt contract,1,2019
+currenc specul,1,2011
+currenc risk premium,1,2008
+currenc return predict,1,2017
+cross-sharehold,1,2011
+cross-ownership,1,2019
+cross-sect consumpt growth volatil,1,2018
+cross-sect of return,1,2014
+cross-sect predict,1,1996
+cross-sect regress,1,2007
+cross-sect return,1,2009
+cross-sect return predict,1,2011
+cross-sect return varianc,1,2008
+cross-sect return variat,1,2016
+cross-sect test,1,2010
+cross-trad,1,2020
+currenc market,1,1994
+crowd out,1,2019
+cryptocurr,1,2020
+cultur distanc,1,2011
+cultur valu,1,2015
+cumul prospect theori,1,2018
+currenc and stock varianc risk premium,1,2017
+currenc carri trad,1,2013
+currenc depreci,1,2002
+currenc exposur,1,2001
+currenc hedg,1,2019
+cost of financi distress,1,2016
+cost of equiti financ,1,1999
+condit perform evalu,1,1999
+core-peripheri,1,2019
+contrarian strategi,1,1995
+contribut,1,2012
+control activ,1,1999
+control coalit,1,2000
+control dilut,1,2000
+control mechan,1,1996
+"control shareholder,tunneling,preempt rights,right offer,equ issuanc",1,2020
+"control shareholders,execut compensation,related-parti transactions,sharehold voting,tunnel",1,2020
+control stockhold,1,2000
+control transact,1,2010
+control-ownership wedg,1,2011
+converg trad,1,2001
+convert arbitrag,1,2011
+convert bond arbitrag,1,2009
+convert debt,1,2011
+convert debt off,1,1996
+convert secur,1,2006
+convex adjust cost,1,2016
+convex contract,1,1999
+cooper,1,2006
+coordin,1,2019
+coordin cost,1,2013
+coordin risk,1,2011
+contrarian behavior,1,2006
+contract theori,1,2013
+contract term,1,2017
+consumpt capm,1,2019
+conduit,1,2013
+conduit lend,1,2011
+conglomer merg,1,1998
+connect transact,1,2006
+consol,1,2006
+consum confid,1,2015
+consum credit,1,2016
+consum financ,1,2019
+consum lend,1,2011
+consum opinion,1,2018
+contagion risk,1,2017
+contract renegoti,1,2000
+contemporan beta approach,1,2019
+content analysi,1,2013
+conting claim,1,1998
+"conting convert capit securities,bail-in,bank fragil",1,2020
+conting risk,1,2009
+continu tim,1,2007
+continu time method,1,2010
+continuous-tim condit mean model,1,2015
+continuous-tim contract,1,2011
+continuous-tim estim,1,2003
+copula,1,2006
+corpor acquisit,1,1997
+cost of bank loan,1,2014
+corpor allianc,1,2013
+corpor ownership,1,2013
+corpor payout,1,2013
+corpor payout polici,1,2011
+corpor regul,1,2017
+corpor reorgan,1,2011
+corpor restructur,1,1998
+corpor sav,1,2017
+corpor sector purchas programm,1,2020
+corpor social respons (csr),1,2013
+corpor strategi,1,2002
+corpor sustain,1,2015
+corpor takeov,1,1997
+corpor tax avoid,1,2013
+corpor tax integr,1,2011
+corpor transpar,1,2014
+corpor valu,1,1998
+correl default risk,1,2018
+correl risk,1,2017
+correl risk exposur,1,2003
+correspond bank,1,2017
+"corruption,credit cards,credit,debt,household finance,government,bureaucrats,banking,polit connections,china",1,2020
+coskew,1,2020
+cost arbitrag,1,2020
+corpor misreport,1,2008
+corpor liquid polici,1,2009
+corpor lifecycl,1,2010
+corpor control market,1,2015
+corpor announc,1,2016
+corpor bank loan,1,2012
+corpor bond fund,1,2011
+corpor bond illiquid,1,2018
+"corpor bond mutual funds,liquid management,asset fire sal",1,2020
+corpor bond pric,1,2019
+"corpor bonds,primari market allocations,underpricing,bookbuilding,trad relationship",1,2020
+corpor borrow,1,2013
+corpor cash hold,1,2017
+corpor chart,1,2007
+corpor debt issuanc,1,2020
+corpor leverag,1,2012
+corpor debt matur,1,2013
+corpor default r,1,2014
+corpor disclosur qu,1,2005
+corpor diversif,1,2007
+corpor earn,1,2004
+corpor earn announc,1,2015
+corpor financi polici,1,2015
+"corpor governance,hedg fund activism,activist settl",1,2020
+corpor growth,1,2011
+corpor interest pay,1,2018
+debt enforc,1,2017
+debt off,1,1999
+debt recoveri,1,2000
+econom determin,1,2020
+dynam real invest,1,2017
+dynam risk manag,1,2005
+dynam trad,1,2010
+e-index,1,2013
+ear peek,1,2017
+earn announc effect,1,2017
+earn anomali,1,2015
+earn concentr,1,2004
+earn equ,1,2006
+earn expect,1,2005
+earn growth,1,1996
+earn inform,1,1996
+earn momentum,1,2006
+earn smooth,1,2008
+earn surpri,1,2019
+earn yield,1,2020
+earnings-bas valuat model,1,2006
+east asia,1,2013
+east asian corpor,1,2000
+east asian crisi,1,1999
+ecb,1,2020
+econom and financi develop,1,2007
+econom constraint,1,2014
+dynam principal-ag model,1,2018
+dynam portfolio cho,1,2011
+dynam panel gmm estim,1,2012
+dynam bargain,1,2019
+dual-class shar,1,2010
+dualiti,1,2008
+due dilig,1,2012
+dumb money,1,2009
+durabl consumpt,1,2011
+durat,1,2014
+dutch auct,1,1999
+dynam,1,2013
+dynam asset pric,1,2015
+dynam asset price estim,1,2013
+dynam capit structur model,1,2015
+dynam optim portfolio,1,2016
+dynam consist,1,2017
+dynam equilibrium,1,2017
+dynam financi market,1,2016
+dynam forecast,1,2006
+dynam inconsist,1,2016
+"dynam inform acquisition,strateg trading,observability,commit",1,2020
+dynam invest,1,2009
+dynam jump inten,1,2015
+dynam model,1,2006
+dynam network format,1,2017
+econom cris,1,2016
+econom develop,1,2003
+debt renegoti,1,2013
+econom disast,1,2011
+emerg manag,1,2010
+emerg stock market,1,2012
+empir analysi,1,2003
+empir anomali,1,2004
+empir financ,1,2013
+empir portfolio cho,1,2010
+empire-build,1,2011
+employ contract,1,2013
+employ protect,1,2017
+employe ag,1,2014
+employe bargain pow,1,2017
+employe benefit,1,1995
+employe effort,1,2019
+employe financ,1,2019
+employe pension plan,1,2007
+employe repres,1,2018
+employe satisfact,1,2019
+employe senti,1,2007
+employe stock option plan,1,2011
+end-of-the-year (fourth quarter) econom growth,1,2015
+endogen break test,1,2002
+endogen financ constraint,1,2011
+endogen inform acquisit,1,2009
+electron exchang,1,2004
+electron communic network,1,2003
+elector turnov,1,2008
+effect bid-ask spread,1,1994
+econom integr,1,2008
+econom reform,1,1994
+econom valu,1,2008
+econom volatil,1,2006
+econometr test,1,2006
+economi of scal,1,2004
+economi of scop,1,2007
+edf,1,2017
+edgar search traff,1,2015
+editor network,1,2014
+effect tax r,1,2017
+elect surpri,1,2018
+efficaci,1,1997
+effici currenc portfolio,1,2016
+effici invest polici,1,2002
+effici market hypothesi,1,2002
+effici method of mo,1,2000
+egalitarian,1,2011
+egarch,1,2009
+eigenfunct problem,1,2012
+eigenvalu gap,1,2019
+elder,1,2014
+dual-class firm,1,2003
+dual issu,1,2004
+dual hold,1,2016
+dual class shar,1,2009
+demand curv,1,2005
+demand for extern financ,1,2007
+demand uncertainti,1,2011
+densiti approxim,1,2006
+deposit financ,1,2015
+deposit insur,1,2014
+depositor disciplin,1,2002
+deriv pric,1,2004
+deriv warr,1,2019
+destabil arbitrag,1,2012
+destabil specul,1,2001
+determin of interest r,1,2013
+develop market,1,2011
+differ in belief,1,2010
+difference-in-diff,1,2017
+difference-in-differ estim,1,2020
+diffus process,1,2004
+dilut,1,2010
+dimens reduct,1,2016
+direct invest,1,2015
+director and ceo death,1,2014
+director and offic ownership,1,2009
+director compen,1,2003
+delist r,1,2008
+deflat,1,2015
+defin benefit pens,1,2014
+decis mak,1,2016
+debt reput,1,1999
+debt secur,1,2018
+debt shift,1,2008
+debt-equ cho,1,2016
+debt-equ conflict,1,2015
+debt-equ holder conflict,1,2012
+debt/equ underwrit,1,2007
+debtor-in-possess financ,1,2003
+dechow and dichev model,1,2009
+decis fatigu,1,2019
+decis right,1,2013
+defer compen,1,2012
+dedic,1,2017
+default and term beta,1,2011
+default clust,1,2018
+default cost,1,2016
+default inten,1,2007
+default opt,1,2016
+default premium,1,2016
+default r,1,2011
+defens industri,1,1995
+defens tact,1,2005
+director distract,1,2019
+director independ,1,2010
+director influenc,1,2010
+divis of gain,1,2012
+distribut polici,1,2008
+diverg of opinion,1,2002
+divest,1,2018
+dividend growth predict,1,2018
+dividend imput,1,2004
+"dividend policy,merg and acquisitions,clientel effect",1,2020
+dividend premium,1,2004
+dividend price ratio,1,2009
+dividend puzzl,1,2006
+dividend-to-pric ratio,1,2018
+divorc,1,2016
+distress sal,1,2017
+dodd-frank,1,2015
+"dodd-frank act\,\otc derivatives\,\swaps\,\swap execut facility\,\request for quotes\,\auction\,\competition\,winner� curse,\relationship",1,2020
+dollar-weight,1,2011
+domest tax,1,2017
+domin sharehold,1,2008
+doubli stochast,1,2007
+dow jone industri averag,1,1998
+drexel burnham lambert,1,2007
+drug approv,1,2014
+dual class,1,2003
+distress workout,1,1995
+distress exchang,1,1994
+director turnov,1,2012
+discount window,1,2015
+"disast experiences,risk perceptions,incomplet inform learning,sali theory,risk pref",1,2020
+disast risk,1,2016
+disciplin,1,2005
+disclosur characterist,1,2017
+disclosur frequenc,1,2007
+disclosur polici,1,1996
+disclosur qu,1,2009
+disclosur regul,1,2013
+discount point,1,2017
+discount rate new,1,2017
+discrete-tim,1,2014
+distress debt,1,2016
+discretionari liquid,1,2015
+discrimin,1,2019
+discriminatori,1,2005
+diseconomi of scal,1,2018
+disintermedi,1,1994
+dispers in belief,1,2014
+dispers ownership,1,1997
+displac risk,1,2012
+disposit optim,1,2007
+distanc to default,1,2007
+condit varianc,1,2005
+condit inform,1,2014
+mandatori sharehold vot,1,2018
+beauti contest,1,2016
+bank sector outreach,1,2007
+bank structur,1,2012
+bank supervi,1,2011
+"banking,monetari policy,monopolist competit",1,2020
+bankruptci cod,1,2011
+bankruptci court,1,2016
+bankruptci predict,1,2003
+bankruptci risk,1,2017
+"bankruptcy,household finance,econom histori",1,2020
+"bankruptcy,labor productivity,econom shocks,feedback effects,educ",1,2020
+"banks,sovereign risk,risk premium,govern guarant",1,2020
+barra,1,2019
+barrier to entri,1,2012
+basel iii,1,2016
+basi risk,1,2004
+basi spread,1,2013
+basket and index trad,1,2008
+bayesian econometr,1,2012
+bayesian inf,1,1998
+bayesian model averag,1,2002
+bayesian persua,1,2019
+"bayesian persuasion,experimentation,hold-up,inform design,relationship lending,secur design,ventur capit",1,2020
+bear beta,1,2019
+bank sector,1,2019
+bank scop,1,2018
+bank risk tak,1,2010
+bank debt,1,2013
+avail heurist,1,2017
+averag return,1,2006
+averag skew,1,2019
+"bailouts,bank regulation,too big to fail,too mani to fail,siz tax",1,2020
+balanc sheet constraint,1,2018
+bank and commerc,1,2001
+bank and financi cris,1,2007
+bank capit structur,1,2016
+bank cris,1,2014
+bank cross-monitor,1,1999
+bank director,1,2006
+bank risk,1,2004
+bank durabl,1,2002
+bank equiti hold,1,2007
+bank hold compani,1,1997
+bank insolv,1,2018
+"bank lending,quantit easing,mortgage-back secur",1,2020
+bank manag,1,2011
+bank monitor,1,2019
+bank ownership,1,2018
+bank pan,1,2017
+bank perform,1,2012
+bear market risk,1,2019
+behavior,1,2005
+audit qu,1,2010
+behavior consist theori,1,2012
+board minut,1,2013
+board monitor,1,1997
+board network,1,2010
+"board of directors,diversity,gender,women,minorities,chairman of the board,board committees,director compensation,pay gap,leadership gap,underrepresentation,committe chair",1,2020
+board reform,1,2017
+board seat,1,2003
+board serv,1,1999
+board structur,1,2012
+board-of-director,1,1999
+bond age effect,1,2019
+bond capit suppli uncertainti,1,2013
+bond debt,1,2019
+bond financ,1,1999
+bond futur,1,1997
+bond hypothesi,1,2009
+bond market effici,1,2014
+bond q,1,2018
+bond rat,1,2014
+bond return,1,2017
+bond return predict,1,2014
+bond risk premia,1,2009
+bond spread,1,2009
+bond valuat,1,1998
+board meet frequenc,1,1999
+board leadership,1,2008
+board interlock,1,2010
+bias expect,1,2005
+belief measur,1,2010
+belief-fre equilibria,1,2018
+beliefs-depend risk av,1,2018
+benchmark index,1,2019
+bet,1,1996
+bet market,1,2001
+beta repres,1,2019
+betting-against-beta,1,2018
+bhar,1,2013
+bia correct,1,2010
+bid ask spread,1,1997
+board committ,1,2011
+bid premium,1,2010
+bid/ask spread,1,2004
+bidder,1,2004
+bidder discrimin,1,2001
+biotech,1,2015
+block pric,1,2010
+block transact,1,1997
+blockchain,1,2019
+blockhold interv,1,2009
+"blockholder,sharehold voting,corpor govern",1,2020
+autocorrel,1,1993
+audit committ,1,2012
+condit inf,1,2006
+analyst earn forecast,1,2008
+affin term structur,1,2002
+affin term structur model,1,2012
+affin yield model,1,2007
+affirm oblig,1,2007
+after-tax return,1,2002
+agenc conflict in fund manag,1,2015
+agenc issu,1,2018
+agenc risk,1,2014
+agent base model,1,2000
+agglom,1,2019
+aggreg earn,1,2009
+aggreg liquid,1,2002
+aggreg stock return,1,2009
+aggress,1,2020
+airlin industri,1,1998
+algorithm trad,1,2015
+alloc,1,2003
+alloc of resourc,1,2005
+alloc polici,1,2002
+altern beta,1,2018
+amex,1,1999
+amort,1,2007
+analyst bia,1,2007
+affin jump-diffus model,1,2013
+adverti,1,2009
+adverse-select,1,1997
+account inform,1,2009
+13f,1,2016
+401(k),1,2002
+401(k) plan,1,2000
+401(k) portfolio,1,2017
+abandon,1,2014
+acceler share repurcha,1,2011
+access to capit,1,2013
+access to credit,1,2011
+account accru,1,1998
+account data,1,2015
+account transpar,1,2005
+adopt,1,2013
+accrual qu,1,2009
+acquir mispr,1,2018
+acquisit currenc,1,2010
+acquisit program,1,2013
+activ fund,1,2014
+"activ fund management,market concentration,effort,industri size,alpha",1,2020
+activist arbitrag,1,2010
+adapt mesh,1,1999
+adjust cost,1,2012
+adjust present valu,1,2006
+analyst downgrad,1,2010
+analyst forecast accuraci,1,2007
+auction rate secur,1,2010
+analyst forecast revi,1,2009
+asset matur,1,2015
+asset price bubbl,1,2009
+asset price inflat,1,2016
+asset price inform,1,2018
+asset price tests: invest,1,2004
+"asset pricing,capm,risk-fre rate,day-night",1,2020
+"asset pricing,return predictability,seasonality,market efficiency,product market",1,2020
+"asset pricing,tim seri momentum,cross-asset predictability,slow-mov capital,intern financi market",1,2020
+asset select,1,2013
+asset specif,1,2007
+asset structur,1,1996
+asset volatil,1,2016
+asset-back commerci pap,1,2014
+asset-back commerci paper (abcp),1,2013
+asset-specif,1,2011
+asymmetr effect,1,2005
+asymmetri,1,1995
+attent alloc,1,2019
+attent shock,1,2019
+attitud,1,2013
+attrit,1,1999
+auction cost,1,2010
+auction failur,1,2010
+asset locat,1,2017
+asset in plac,1,2018
+asset class demand,1,2016
+anti-takeov provi,1,1998
+analyst report,1,2012
+analyst reput,1,2000
+analyst research,1,2014
+"analysts,analyst recommendations,anomalies,mispricing,market effici",1,2020
+"anchoring,cash,r effects,investment,behavior financ",1,2020
+and ross,1,1994
+anim spirit,1,2016
+announc effect,1,2009
+anomali perform,1,2014
+anti-takeov legisl,1,2010
+anticip,1,2018
+asset beta,1,2016
+anticipatori trad,1,2013
+antitakeov amend,1,1995
+antitakeov law,1,1995
+antitakeov measur,1,2017
+antitrust,1,2000
+apt,1,1997
+arbitrag risk,1,2003
+arbitrag spread,1,2015
+arrow–debreu secur,1,2000
+arrow–debreu state pric,1,2019
+bondhold gain,1,2004
+bonferroni test,1,2006
+book valu,1,1998
+collater asset,1,2018
+clearingh,1,2018
+client clear,1,2015
+client firm valu,1,2002
+clientel,1,2011
+clientel theori,1,2013
+clos,1,2015
+close held corpor,1,2000
+closed-form approxim,1,2011
+closed-form likelihood expan,1,2007
+closed-form maximum-likelihood,1,2010
+closed-fund,1,2006
+closur,1,2011
+cloud cov,1,2019
+club bid,1,2013
+cluster and unclust network interim inform,1,2012
+cluster standard error,1,2011
+cmbx,1,2012
+co-invest,1,2015
+co-jump,1,2016
+co-search,1,2015
+coar,1,2015
+coentropi,1,2018
+coercion,1,1995
+clear hous,1,2017
+clear,1,2012
+class act,1,2018
+cev model,1,2007
+ceo person leverag,1,2012
+ceo pow,1,2014
+ceo qual,1,2014
+ceo skil,1,2014
+ceo styl,1,2020
+ceo success,1,2004
+ceo tal,1,2017
+ceo vacat,1,2014
+ceo-firm match,1,2014
+certif effect,1,2019
+cfo turnov,1,2017
+claim on the upsid,1,2010
+chaebol,1,2004
+chanceri court,1,2013
+change-point,1,2011
+chapter 11 fil,1,2013
+characterist,1,2005
+characterist funct,1,2000
+cheeger inequ,1,2019
+chines economi,1,2010
+circuit break,1,2005
+civil liabil,1,2018
+cognit abil,1,2018
+collater law,1,2017
+book-to-market equ,1,2006
+collater loan oblig,1,2019
+compens and inc,1,2001
+compens inc,1,2009
+compens wage differenti,1,2013
+competit and reput,1,2011
+competit assign,1,2013
+competit bid,1,1999
+competit for order flow,1,2003
+competit market,1,2011
+competit strategi,1,1996
+competit threat,1,2018
+complementar,1,2016
+complet market,1,2001
+complex,1,2009
+complic process,1,2012
+comput gam,1,2009
+comput general equilibrium model,1,2013
+comput industri,1,2000
+concentr ownership,1,1997
+condit alpha,1,2012
+condit asset pric,1,2007
+condit asset price model,1,1993
+condit covari,1,2008
+condit heteroskedast,1,1997
+compar firm,1,1999
+compar financi system,1,2007
+compar corpor govern,1,1998
+commit,1,2016
+collater loan oblig (clo),1,2012
+collater loan oblig (clos),1,2012
+"collateral,heterogen preferences,disagreement,asset prices,stationari equilibrium",1,2020
+"collateral,secur debt,absolut prioriti rule,pledg",1,2020
+"collateral,secur debt,pledg",1,2020
+commerci bank regul,1,1999
+commerci mortgage-back secur,1,2020
+commerci pap,1,2007
+commerci real estat,1,2012
+commiss,1,2012
+commod basi,1,2014
+compani nam,1,2013
+commod futur,1,2013
+commod pric,1,2014
+commod return,1,2013
+commod trad,1,2016
+common factor,1,2001
+common in illiquid premium,1,2015
+common in liquid,1,2011
+common inform,1,1998
+"common investors,indexing,institut ownership,manageri inc",1,2020
+common subspac,1,2008
+ceo pay slic,1,2016
+ceo optim,1,2014
+ceo labor market,1,2020
+ceo employ histori,1,2014
+buy-writ,1,2011
+buyout specialist,1,2001
+buy–sel asymmetri,1,2017
+calendar time portfolio method,1,2013
+call featur,1,1995
+call provi,1,2018
+callabl bull/bear contract (cbbc),1,2018
+callabl debt,1,2015
+campaign contribut,1,2008
+cancel seo,1,2009
+canon correl analysi,1,2012
+cap volatil,1,2014
+capac constraint,1,2013
+capit,1,2012
+capit account open,1,2005
+capit accumul,1,2000
+capit adequaci,1,2005
+capit adjust cost,1,2018
+capit asset price model,1,1995
+capit commit,1,2018
+capit constraint,1,2015
+capit demand,1,2003
+capit effici,1,2020
+buy-back,1,2000
+buy-and-hold return,1,2018
+busi stabil,1,2008
+"broker-dealers,treasuri noise,nonfinanci firms,real effect of secur intermedi",1,2020
+book-to-market premium,1,2012
+book-to-market ratio,1,1995
+borrow protect,1,2016
+boston celt,1,2001
+brand,1,2013
+brazil,1,1999
+breakup fe,1,2003
+british airway,1,1997
+broker,1,2012
+broker network,1,2019
+brokerag analyst,1,2004
+busi seg,1,1995
+broker–ag conflict,1,2011
+bubbl rid,1,2013
+budget rollov,1,1998
+bulk volum classif,1,2016
+busi combin law,1,2009
+busi condit,1,1996
+busi cycl variat,1,2016
+busi fluctuat,1,2011
+busi incorpor,1,2006
+busi invest,1,2004
+capit expenditur,1,2009
+capit gain overhang,1,2017
+"capit gain taxes,start-ups,tax capit",1,2020
+cdos,1,2012
+cash-flow volatil,1,2008
+cashflow risk,1,2009
+casino industri,1,2017
+catastroph,1,2001
+catastroph risk,1,2004
+categor discrimin,1,2009
+categor think,1,2019
+categori effect,1,2006
+cauchi jump,1,2004
+cdo,1,2018
+cds spread,1,2019
+cash-flow risk,1,2010
+cds versus stock and bond,1,2018
+central bank,1,2017
+central bank asset purcha,1,2016
+"central bank liquidity,monetari polici transmission,corpor deposits,financi crisis,lend of last resort,loans,r effect",1,2020
+central bank polici,1,2010
+central clear,1,2014
+central clear parti,1,2015
+central tendenc,1,2013
+ceo chair,1,2011
+ceo characterist,1,2014
+cash-flow uncertainti,1,2009
+cash-flow right,1,2014
+capit illiquid,1,2012
+career benefit,1,2017
+capit liquid,1,2005
+capit market competit,1,2004
+capit market reform,1,1997
+capit requir,1,2014
+"capit requirement,bank regulation,bank loan supply,saf asset demand",1,2020
+capit structur dynam,1,2016
+capit structur polici,1,2007
+capit util,1,2017
+capital-labor complementar,1,2019
+cara (exponential) pref,1,2011
+"carri trade,foreign exchang rates,predictability,trend following,trend",1,2020
+cash-flow predict,1,2005
+carveout,1,1999
+cash capit,1,2015
+cash convers cycl,1,2019
+cash flow channel,1,2016
+cash flow new,1,2017
+cash flow right,1,2012
+cash flow surpri,1,2018
+cash manag,1,2019
+cash right,1,2006
+cash sav,1,2011
+endogen liquid,1,2015
+endogen risk shar,1,2019
+"endogen risk,factor betas,financi intermediaries,arbitrage,asset price anomali",1,2020
+12h-6,1,2010
+intrafirm transact,1,2004
+intragroup loan,1,2007
+intrins motiv,1,2017
+invent,1,2006
+inventor ceo,1,2020
+inventori control,1,1994
+inventori cost,1,1994
+inventori invest,1,2013
+inventory-hold premium,1,2004
+invert venu,1,2019
+"invest advice,broker,counterfactual,default,retir plan,target date fund",1,2020
+invest advisor,1,2010
+invest alloc,1,2013
+invest bank experi,1,2014
+invest bank market shar,1,2000
+invest bank reput,1,2008
+invest bia,1,2014
+invest by politician,1,2014
+invest constraint,1,2000
+invest euler equat,1,2010
+invest financ,1,2008
+invest fraud,1,2012
+invest growth,1,2018
+intraday return,1,2019
+intraday,1,2018
+intra-period risk,1,2010
+intern labor market,1,2004
+intermediari capit,1,2017
+"intern asset pricing,recurs preferences,long-run risk,innovation,intern diffus",1,2020
+intern capit flow,1,2019
+intern corpor financ,1,2001
+intern corpor govern,1,2006
+intern debt issu,1,2006
+intern economi,1,2008
+intern equ,1,1999
+intern equiti flow and return,1,2009
+intern equiti issu,1,2006
+intern pay equ,1,2011
+intra-group loan,1,2014
+intern polit cris,1,2011
+intern portfolio flow,1,2005
+intern return predict,1,2009
+intern stock return,1,2000
+intern takeov,1,2018
+intern transmiss,1,2014
+internal-risk model,1,2019
+intertempor capm,1,2012
+intertempor cho,1,2015
+intertempor price discrimin,1,2016
+invest horizon,1,2005
+invest opportun set,1,2015
+intermediari,1,2014
+invest opt,1,1998
+ipo market,1,2016
+ipo method,1,2002
+ipo perform,1,2007
+ipo wav,1,2011
+ira,1,2017
+irrat trad,1,2006
+irrc provi,1,2013
+issu pric,1,2018
+issuanc,1,2013
+issue-cost,1,1997
+issuer,1,2005
+issuer pay,1,2012
+issuer-pay,1,2018
+januari baromet,1,2006
+januari effect,1,2004
+japanes corpor financ,1,1999
+japanes incent compen,1,2005
+japanes main bank,1,2007
+japanes merger and acquisit,1,1993
+jel,1,1994
+job act,1,2015
+joint bid,1,2013
+joint predict,1,2011
+ipo alloc,1,2007
+investor-paid rate agenc,1,2014
+investor typ,1,2017
+investor,1,2000
+invest perform,1,2018
+invest perform evalu,1,2010
+invest restrict,1,2004
+invest return,1,2016
+invest spend,1,2010
+invest styl,1,1997
+invest tim,1,2005
+invest valu,1,2013
+investment-cash flow sensit,1,2012
+investment-impli discount r,1,2010
+investor ag,1,2009
+investor sophist,1,2003
+investor capit flow,1,2011
+investor commun,1,1995
+investor conf,1,2014
+investor expect,1,2001
+investor flow,1,2018
+investor inatt,1,2020
+investor pay,1,2012
+investor psycholog,1,2006
+investor r,1,2018
+investor react,1,2015
+intermediari asset pric,1,2019
+intermedi chain,1,2017
+endow,1,2003
+inform manipul,1,2006
+ineffici of refinanc,1,2013
+inequ restrict,1,1993
+inertia,1,2007
+infinitesim cross-mo,1,2016
+inflat disagr,1,2018
+"inflation,time-vari inflat risk premium,infl hedging,individu stock returns,cross-sect asset-pricing,nominal-r covari",1,2020
+"inform acquisition,inform flows,rivalry,investment,m&a",1,2020
+inform across market,1,2006
+inform arriv spe,1,1998
+inform cascad,1,2000
+inform cont,1,2016
+inform deal,1,2018
+inform demand,1,2016
+"inform disclosure,voluntari disclosure,pric efficiency,liquidity,analyst",1,2020
+inform dissemin,1,2017
+inform distribut,1,2018
+inform economi of scop,1,2019
+inform effect,1,2001
+inform effici,1,2006
+inform ev,1,2008
+"inform freeriding,inform provision,endogen timing,inform acquisition,herd",1,2020
+inform frict,1,2019
+inform institut,1,2011
+ineffici,1,2018
+industri structur,1,1998
+industri shock,1,1996
+indirect penalti,1,1998
+incomplet inform,1,2009
+increment variabl,1,2015
+incumb,1,2011
+independ research,1,2007
+index arbitrag,1,1996
+index opt,1,2000
+index rebalanc,1,2019
+index reconstitut,1,2017
+index-link bond,1,1994
+indirect bankruptci cost,1,2007
+individu and institut investor,1,2007
+industri rivalri,1,2003
+individu investor portfolio cho,1,2009
+individu ownership,1,2013
+individu stock,1,2019
+indivis labor,1,2007
+indonesia,1,2006
+industri classif,1,2015
+industri competit,1,2008
+industri equilibrium,1,2017
+industri organ,1,2017
+industri organ and financ,1,2018
+inform intermediari,1,2018
+inform network,1,2017
+intermedi,1,2002
+inform percol,1,2017
+"institut investors,proxi voting,ideology,spati model",1,2020
+institut ownership concentr,1,2011
+institut trade cost,1,2006
+instrument cho,1,2009
+insur deposit,1,1998
+insur regul,1,2009
+intang inform,1,2010
+intang invest,1,2019
+integr cost,1,2013
+integr volatil,1,2001
+intellectu properti,1,2018
+intellig,1,2012
+intens monitor,1,2011
+interbank market,1,2015
+interbank risk,1,2013
+interest rate derivati,1,1997
+interest rate futur,1,2000
+interest rate par,1,2007
+"interest rate swaps,financi regulation,centr clearing,over-the-count market,valu adjust",1,2020
+interest rate volatil,1,2018
+interf,1,2020
+interlock board,1,2010
+interlock directorship,1,2007
+institut invest,1,2012
+institut fund,1,2013
+institut frict,1,2013
+ingersol,1,1994
+inform preci,1,2011
+inform provi,1,2007
+inform r,1,2009
+inform sensit,1,2019
+inform shock,1,2017
+inform structur,1,2013
+inform technolog,1,2008
+inform transf,1,2016
+inform uncertainti,1,2013
+information-tim,1,1998
+inherit abil,1,2013
+institut environ,1,2015
+"initi public offering,ventur capital,innovation,start-up",1,2020
+initi return,1,2012
+innov effici,1,2013
+innov resourc,1,2020
+input–output analysi,1,2013
+insid director,1,1997
+insid excess control right,1,2011
+insolv,1,2017
+insolv protect,1,1997
+insolv risk,1,2017
+jpx-nikkei 400 index,1,2020
+jump in pric,1,2016
+jump in volatil,1,2016
+loss av,1,2005
+local consumpt uncertainti,1,2017
+local corrupt,1,2016
+local economi,1,2019
+"local govern financ vehicles,municip corpor bonds,polit cycle,shadow bank in china,railroad finance,trust compani",1,2020
+local institut ownership,1,2010
+"local labor markets,corpor capit structure,search frictions,agglom",1,2020
+local ownership,1,2007
+local polit,1,2013
+local think,1,2012
+local tim,1,2002
+"locat choice,portfolio choice,household finance,loc bias,select correct",1,2020
+lockup opt,1,2001
+lockup restrict,1,2003
+long-horizon event studi,1,1998
+long-horizon predict,1,2003
+long-memori and fraction cointegr,1,2013
+long-run risk model,1,2013
+long-run stock return,1,2013
+long-term real r,1,2015
+long-term risk,1,2019
+longev risk,1,2019
+long–short posit,1,2011
+look-back trade opt,1,2006
+local bank,1,2019
+local analyst advantag,1,2008
+local,1,2012
+loan commit,1,2014
+"liquidity,market microstructure,trading,high frequenc trad",1,2020
+"liquidity,tick size,pilot program,pr efficiency,liquid spillov",1,2020
+liquidity-adjust capit asset price model,1,2011
+liquidity-adjust capm,1,2005
+list,1,1999
+list standard,1,2006
+litig,1,2001
+litig cost,1,2017
+litig risk,1,2012
+load,1,2000
+loan default,1,2019
+lobbyist,1,2016
+loan fe,1,2017
+loan market competit,1,2007
+loan off,1,2018
+loan pric,1,2012
+"loan pricing,loan spreads,democrat institutions,rev",1,2020
+loan prospect,1,2018
+loan refinanc,1,2018
+loan sal,1,2013
+loan-loss reserv,1,1997
+loan-to-valu ratio,1,2017
+loss,1,2004
+loss given default,1,2007
+jump model,1,2002
+lotteri demand,1,2020
+manag compani,1,2018
+manag fe,1,2013
+manag forecast,1,2008
+manag ownership,1,2016
+manag senti,1,2019
+manag skil,1,2018
+manageri conservat,1,2003
+manageri decis mak,1,2011
+manageri flexibl,1,2001
+manageri hubri,1,2012
+manageri indiscret,1,2018
+manageri learn,1,2014
+manageri model,1,2013
+manageri opportun,1,2007
+manageri optim,1,2019
+manageri perform,1,1999
+manageri pref,1,2016
+manageri resist,1,1994
+manageri risk tak,1,2009
+manageri share ownership,1,2011
+manageri styl,1,2015
+manageri theori of invest,1,1995
+mandatori portfolio disclosur,1,2017
+manag characterist,1,2014
+manag buyout,1,2019
+manag alloc,1,2014
+lévi jump,1,2010
+lotteri jackpot,1,2019
+lotteri pref,1,2016
+lotteri stock,1,2015
+lottery-lik payoff,1,2011
+low-leverag puzzl,1,2013
+low-pric stock,1,1995
+lsap,1,2013
+ltcm crisi,1,2001
+ltro,1,2017
+luca critiqu,1,2015
+m&as,1,2016
+major control,1,1998
+m41,1,1996
+machin learn,1,2017
+macroeconom,1,2003
+macroeconom announc,1,2011
+macroeconom condit,1,2006
+macroeconom condit variabl,1,2019
+macroeconom forecast,1,2018
+macroeconom news announc,1,2009
+macroprudenti regul,1,2019
+magnet\\xa0effect,1,2019
+"liquidity,inform asymmetri",1,2020
+"liquidity,dealers,insurance,centr counterparti",1,2020
+liquid trigg,1,2001
+liquid trad,1,2017
+languag,1,2003
+larg cross-sect,1,2019
+larg panel regress,1,2020
+larg sharehold,1,2005
+larg trad,1,2006
+latent competit,1,2010
+latent factor,1,2019
+latent variabl,1,1994
+latent volatil,1,2013
+latin america,1,2009
+lattic model,1,1999
+lbo risk,1,2020
+lbos,1,2013
+lead analyst,1,2001
+lead underwrit,1,2007
+lead-lag relat,1,2018
+lead-lag relationship,1,1996
+leadership,1,2018
+learn from p,1,2011
+learning.,1,2005
+leas auct,1,2013
+least squar mont carlo,1,2005
+left-tail risk,1,2020
+labour union,1,1998
+labor shar,1,2019
+labor right,1,2018
+knowledge-bas industri,1,2009
+jump modifi carri trad,1,2019
+jump risk,1,2011
+jump variat,1,2014
+jump-diffus,1,2017
+jump-model,1,2010
+kalman filt,1,2006
+kld rate,1,2011
+knightian uncertainti,1,2018
+knowledg,1,2006
+knowledg of econom and financ,1,2011
+korea,1,2012
+labor repres,1,2006
+korean bank crisi,1,2002
+kurtosi premium,1,2015
+labor,1,2019
+labor contract,1,1998
+labor cost,1,2013
+labor incom risk,1,2010
+labor leverag,1,2019
+labor market disciplin,1,2019
+labor misalloc,1,2019
+labor realloc,1,2011
+legal enforc,1,2015
+legal environ,1,2013
+legal infract,1,2015
+liquid crisi,1,2013
+limit investor att,1,2017
+"limit market participation,bank capit structure,capit regulation,investor return",1,2020
+limit of diversif,1,2011
+limit partnership,1,1999
+limit use of capit loss,1,2016
+limits-of-arbitrag,1,2016
+linear asset price model,1,2016
+liquid buff,1,2017
+liquid channel,1,2012
+liquid cris,1,2002
+liquid determin,1,2005
+limit arbitrag,1,2012
+liquid discount,1,2007
+liquid dynam,1,2008
+liquid factor,1,2006
+liquid ne,1,2006
+liquid network,1,2011
+liquid pref,1,2010
+liquid pull-back,1,2014
+liquid react,1,2013
+liquid standard,1,2019
+liquid tim,1,2013
+limit invest horizon,1,2015
+life-cycl,1,2010
+legal liabil,1,1993
+lever beta,1,2004
+legal origin,1,2007
+legisl inc,1,2013
+lemon discount,1,2011
+lend channel,1,2011
+lend fe,1,2002
+lend outcom,1,2012
+lend relationship,1,2007
+lend standard,1,2013
+lender liabil,1,2001
+lender right,1,2019
+leverag cost,1,2004
+life insur,1,1994
+leverag cycl,1,2017
+leverag deficit,1,2011
+leverag polici,1,2006
+leverag restrict polici,1,2019
+leverag target,1,2009
+lexicon,1,2013
+liabil,1,1998
+libor,1,2013
+libor market model,1,2014
+life cycl,1,2011
+incomplet contract,1,2010
+incom taxat,1,2002
+incom risk-return correl,1,2014
+financi keiretsu,1,1994
+financ panel data,1,2011
+financ pattern,1,2008
+financ risk,1,2013
+financ strategi,1,1994
+finance–growth nexus,1,2012
+financi account,1,2013
+financi advi,1,2012
+financi bidd,1,2019
+"financi crisis,lend of last resort,repo,collateral,d",1,2020
+financi deficit,1,2007
+financi deregul,1,2018
+financi econom,1,2000
+financi effect of regul,1,2000
+financi effici,1,2017
+financi experti,1,2014
+financi flexibl,1,2011
+financi frict,1,2007
+financi health,1,2011
+financi hedg,1,2017
+financi histori,1,2018
+financi instru,1,2003
+financi interconnect,1,2014
+financi intermediari,1,2016
+financ obstacl,1,2007
+financ flexibl,1,2018
+financ expert,1,2008
+favorit,1,2010
+fair valu account,1,2010
+fals detect,1,2010
+fals discoveri r,1,2012
+fama-macbeth,1,2007
+famili,1,2008
+famili control,1,2000
+famili environ,1,2017
+famili ti,1,2013
+fat tail,1,2012
+favor,1,1996
+feder fund market,1,2017
+financ deficit,1,2003
+feder reserv,1,2018
+fee,1,2016
+feedback mechan,1,2009
+femal leadership,1,2015
+femal soci,1,2017
+fha,1,2018
+fiduciari duti,1,2017
+fin 48,1,2014
+financ bidd,1,2015
+financ cho,1,2006
+"financi intermediation,capit misallocation,volatility,crisis,limit enforc",1,2020
+financi market and macroeconomi,1,2007
+floating-to-fix rate debt structur,1,2007
+financi market and the macroeconomi,1,2011
+firm locat,1,2011
+firm loyalti,1,2005
+firm prestig,1,2017
+firm profit,1,2016
+firm reput,1,2014
+firm size effect,1,2013
+firm volatil,1,2016
+firm-financi constraint,1,2016
+firm-level cost of capit,1,2017
+firm-level data,1,2008
+firm-specif credit inform flow,1,2018
+firm-specif inform,1,1996
+firm-specif stock return variat,1,2008
+firm-specif variat,1,2008
+first order risk av,1,2005
+first pric,1,2016
+first-day return,1,2013
+first-passag probabl,1,2010
+fiscal uncertainti,1,2019
+fisher effect,1,2003
+fix effect,1,2015
+fix incom,1,2008
+fix price tender off,1,1999
+firm life expect,1,2011
+firm invest cho,1,2016
+firm invest behavior,1,2019
+financi sophist,1,2011
+financi market microstructur,1,2018
+financi market volatil,1,2006
+financi misrepres,1,2008
+financi news media,1,2019
+financi pan,1,2018
+financi reform,1,2014
+financi report,1,2007
+financi report risk,1,2015
+financi restat,1,2008
+financi sector,1,2016
+financi specul,1,2016
+firm invest,1,2019
+financi synergi,1,2019
+financial-market run,1,2013
+finit sampl properti,1,1994
+fire deci,1,2019
+firew,1,2018
+firm ag,1,2014
+firm and insid misconduct,1,2017
+firm characterist,1,2013
+firm distress,1,2013
+firm dynam,1,2013
+fair valu,1,2011
+fair opinion,1,2009
+failur to deliv,1,2014
+faculti product,1,2009
+equiti risk premium,1,2016
+"equiti risk premium,risk-neutr moments,pref",1,2020
+equiti stak,1,2006
+equiti trad,1,1996
+equiti tunnel,1,2010
+equiti volatil,1,2006
+equival inventori,1,2003
+errors-in-vari bia,1,2019
+esop,1,1998
+estim,1,2004
+estim of diffus,1,2002
+etf,1,2016
+"ethics,financi misconduct,financi regulation,fraud,invest advi",1,2020
+eurodollar futur pric,1,1997
+european bank,1,2015
+european central bank,1,2016
+european equiti market,1,2013
+european union,1,2013
+eurozon sovereign bond,1,2016
+event effect,1,2010
+ex ant risk premium,1,1993
+ex day,1,1998
+ex-dividend day,1,2008
+equiti return predict,1,2012
+equiti repurcha,1,2015
+equiti premium puzzl,1,2017
+equiti characterist,1,2006
+entrepreneuri entri,1,2014
+entrepreneuri perform,1,2014
+entrepreneuri risk,1,2012
+entri deregul,1,2008
+entri deterr,1,2006
+entri threat,1,2017
+entropi,1,2018
+entrust loan,1,2019
+environ,1,2019
+environment econom,1,1998
+equiti cross sect,1,2014
+equiti premium predict,1,2014
+equiti deviat,1,1994
+equiti financ,1,2001
+equiti lend,1,2005
+equiti lend market,1,2017
+equiti market integr,1,2013
+equiti market lib,1,2005
+equiti market tim,1,2004
+equiti mutual fund,1,2006
+equiti off,1,2002
+equiti opt,1,2013
+ex-dividend day price drop,1,2004
+exagg,1,2006
+excess cash,1,2013
+explor and exploit,1,2017
+expect equiti return,1,2012
+expect insur cost,1,2004
+expect profit,1,2012
+expect secur return,1,1996
+expect stock return,1,2009
+expect volatil surfac,1,2016
+expected-return new,1,2002
+"experi effects,learning,asset prices,portfolio choice,demograph",1,2020
+experiment econom,1,2000
+experti,1,2018
+export,1,2008
+expect,1,2015
+expropri cost,1,2008
+extern financ depend,1,2014
+extern habit,1,2009
+extrem ev,1,2015
+extrem outcom,1,2011
+extrem valu theori,1,2005
+factor,1,2019
+"factor models,sdf,cross section,shrinkage,machin learn",1,2020
+factor risk,1,2000
+factor-mimick portfolio,1,2013
+expect earn,1,2009
+exot beta,1,2018
+excess control,1,2008
+exclusionari invest,1,2018
+excess return framework,1,2017
+excess risk tak,1,2002
+exchang competit,1,2006
+exchang fe,1,2019
+exchang off,1,1994
+exchang rate exposur,1,2001
+"exchang rates,curr risk premium,busi cycles,long-run risk",1,2020
+exchange-r mov,1,1993
+exchange-trad fund (etfs),1,2019
+"exchange-trad fund (etfs),liquidity,track errors,volatil",1,2020
+execut annual bonus,1,2018
+exit strategi,1,1998
+execut dismiss,1,1996
+execut frug,1,2015
+execut labor market,1,2016
+execut pay,1,2012
+execut retir,1,2018
+execut stock option gr,1,2007
+execut stock ownership,1,1997
+execut turnov,1,2002
+exercis pric,1,2001
+exercis strategi,1,2001
+flight-to-qu,1,2011
+floor and cap,1,2013
+incom,1,2018
+high distribut mo,1,2014
+gubernatori elect,1,2017
+gut feel,1,2015
+h20,1,1996
+habit,1,2010
+hawk process,1,2015
+hazard estim,1,2006
+health,1,2004
+"health insurance,afford care act (aca),precautionari savings,strateg default,bankruptci",1,2020
+healthcar reform,1,2016
+hedg benefit,1,2006
+hedg demand,1,2001
+"hedg funds,inform environment,market efficiency,inform acquisition,analyst coverag",1,2020
+"hedg funds,prim brokers,invest banks,inform trading,loan origin",1,2020
+height,1,2018
+heston model,1,2007
+heterogen ag,1,2011
+heterogen in belief,1,2010
+heterogen in risk toler and ag,1,2020
+heterogen investor,1,1998
+heurist,1,2019
+heurist trade rul,1,2016
+hft,1,2019
+hidden factor,1,2012
+guaranti fund,1,1997
+gses,1,2016
+growth invest,1,2015
+govern polici and regul,1,2018
+gold-link,1,2001
+golden parachut,1,1994
+good of fit,1,2019
+goodwil,1,2001
+govern bond yield,1,2018
+govern borrow,1,2015
+govern commit,1,2008
+govern contract,1,2014
+govern ind,1,2013
+govern interv,1,2020
+govern polici credibl,1,2008
+group deci,1,2017
+govern r,1,2010
+govern spend,1,2013
+govern structur,1,1996
+"governance,chief executive,board of directors,dynam contracting,bargaining,compensation,monitor",1,2020
+granger caus,1,2012
+graviti model,1,2007
+greenmail,1,2005
+gross intern asset posit,1,2019
+gross profit,1,2015
+gross spread,1,2009
+hidden liquid,1,2009
+high-frequ,1,2013
+flotat cost,1,2009
+high-tech inten,1,2014
+iceberg ord,1,2009
+idea shar,1,2020
+idiosyncrat jump,1,2019
+idiosyncrat risk premium,1,2012
+illeg insid trad,1,2017
+illiquid premium,1,2015
+imbal,1,2011
+imit,1,2000
+immigr,1,2014
+immov collat,1,2017
+implement cost,1,2001
+impli volatil funct,1,2004
+impli volatil smil,1,2011
+impli volatil surfac,1,2016
+implicit tax,1,2011
+implied-st general method of mo,1,2002
+import competit,1,2012
+import tariff,1,2012
+incent contract,1,2018
+incent dev,1,2016
+incent fe,1,2013
+incent fee structur,1,2000
+incent pay,1,2003
+hybrid secur,1,2001
+human capit risk,1,2019
+human capit rel,1,2018
+holdout problem,1,2015
+high-wat mark (hwm),1,2013
+higher-ord mo,1,2013
+hire r,1,2011
+histor black colleg and univ,1,2019
+histor volatil,1,2009
+histori of financ,1,2019
+hml,1,2018
+hold period return,1,2015
+hold-up,1,2011
+holdout,1,1995
+home improv,1,2014
+human capit redeploy,1,2018
+home-bia,1,2016
+homophili,1,2016
+horizon problem,1,1999
+hous bubbl,1,2018
+hous market,1,2019
+"hous market,mortgag debt,job search,labor mobil",1,2020
+"household finance,consum credit,creditor rights,contract enforcement,debt collection,law and financ",1,2020
+household portfolio,1,2013
+household portfolio puzzl,1,2016
+hubri,1,2008
+going-concern sal,1,2008
+global research analyst settl,1,2007
+global privat inform,1,2009
+global inflat uncertainti,1,2017
+foreign investor inform disadvantag,1,2005
+foreign ownership,1,2010
+foreign tax,1,2017
+form adv,1,2012
+format exposur,1,2019
+forward bia,1,2012
+forward guidanc,1,2019
+forward martingal measur,1,2013
+forward premium anomali,1,2014
+forward premium puzzl,1,2017
+forward rate agr,1,2000
+forward volatil agr,1,2011
+founder-incumb ceo,1,2016
+four-factor model,1,2012
+fourier transform,1,2004
+fox new,1,2018
+fragil capit structur,1,2011
+fragment,1,2017
+frailti,1,2018
+franchis valu,1,2004
+free cash flow,1,1998
+free cash flow theori,1,2018
+free-rid,1,2017
+foreign exchang rate dynam,1,2008
+foreign exchang r,1,2019
+foreign exchang opt,1,2014
+forc turnov,1,2016
+flotat method,1,2000
+flow tox,1,2016
+flow-driven trad,1,2011
+flow-perform convex,1,2019
+flow-perform relat,1,2018
+flow-perform sensit,1,2019
+flow-through ent,1,2011
+fluenci,1,2013
+fomc announc,1,2016
+footbal,1,1996
+forecast combin,1,2012
+foreign exchang market,1,2019
+forecast error,1,2013
+forecast evalu,1,2012
+forecast precis for local and foreign stock,1,2008
+forecast price effici,1,2016
+forecast revi,1,2001
+foreclosur law,1,2016
+foreign acquisit,1,1995
+foreign corpor,1,2015
+foreign currenc debt,1,2007
+foreign exchang dynam,1,2007
+free-rid problem,1,2005
+freedom of the press,1,2010
+freeze-out,1,2006
+general disappoint av,1,2018
+g21,1,1994
+g24,1,1996
+g33,1,1996
+g35,1,1996
+garch model,1,2007
+garch-m model,1,1996
+gdp,1,2006
+gender gap,1,2020
+gender wage gap,1,2015
+gender-bas pric,1,2009
+genet algorithm,1,1999
+g13,1,1996
+geograph disp,1,2012
+geograph distanc,1,2016
+geograph instru,1,2013
+geograph locat,1,2005
+geograph seg,1,2007
+gim,1,2013
+glassdoor,1,2019
+glass–steagal act,1,2019
+"global currenc hedging,curr risk factors,curr returns,intern portfolio diversification,mean-vari optim",1,2020
+global imb,1,2019
+g20,1,2003
+g-index,1,2013
+freezeout,1,2010
+fund liquid risk,1,2017
+freezeout acquisit,1,2019
+frequenc analysi,1,2019
+friday,1,2016
+frontier market,1,2011
+fund alpha,1,2011
+fund condit,1,2010
+fund exit,1,2017
+fund govern,1,2007
+fund hold,1,2014
+fund liquid,1,2011
+fund manag evalu,1,2017
+fx exposur,1,2010
+fund of fund,1,2018
+fund return,1,2000
+"fund tradeoffs,fund characteristics,portfolio liquidity,diversif",1,2020
+fundament risk,1,2019
+fundament risk assess,1,2016
+fundament valuat,1,2015
+fundament valuat equat,1,1997
+fundrai,1,2004
+futur,1,2012
+futur gdp,1,2003
+zlb,1,2019
