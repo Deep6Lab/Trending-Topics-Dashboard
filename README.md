@@ -18,7 +18,7 @@ This project builds a web-based interactive dashboard to detect trends in financ
     - Click on __Environment__ tab on the left panel
     - Click on the ___Create (+)___ button at the bottom left corner of the screen
     - Fill in the information on the dialog box and click the ___Create___ button
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/anaconda_env.PNG" width="700px" height="500px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/anaconda_env.PNG" width="700px" height="500px" />
  1. Click on the __Home__ tab on the left panel of __Anaconda__ and do the followings:
     - Click on the ___Install___ button under __Jupyter Notebook__ to install Jupyter Notebook
     - Click on the ___Install___ button under __CMD.exe Prompt__ to install the command prompt for current environment 
