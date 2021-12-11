@@ -30,7 +30,7 @@ This project builds a web-based interactive dashboard to detect trends in financ
  1. Install the required libraries following these steps:
     - In __Anaconda > Home__, open __Command prompt__ by clicking the ___Launch___ button under __CMD.exe Prompt__ for the current environment
     - Go to project directory and type the following command in the Command prompt:<br /> __pip install -r requirements.txt__
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/anaconda_env.PNG" width="700px" height="45px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/install_command.PNG" width="700px" height="45px" />
  
 #### Start & Run the App
  
