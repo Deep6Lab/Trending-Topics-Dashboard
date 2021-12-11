@@ -30,13 +30,13 @@ This project builds a web-based interactive dashboard to detect trends in financ
  1. Install the required libraries following these steps:
     - In __Anaconda > Home__, open __Command prompt__ by clicking the ___Launch___ button under __CMD.exe Prompt__ for the current environment
     - Go to project directory and type the following command in the Command prompt:<br /> __pip install -r requirements.txt__
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/install_command.PNG" width="700px" height="45px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/anaconda_env.PNG" width="700px" height="45px" />
  
 #### Start & Run the App
  
  1. In __Anaconda > Home__, click on the ___Launch___ button under __Jupyter Notebook__ to open Jupyter Notebook in the web browser.
  1. Open and run __[05_dashboard.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/05_dashboard.ipynb)__ notebook. Then click on the URL output from the last cell to launch the app. **Note:** Sometimes the port number might already be running on your system. In that case change the port numerb to 5000 or 7000.
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/dash_app.PNG" width="600px" height="170px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/dash_app.PNG" width="600px" height="170px" />
 
 ### Environment Setup for Mac
 
@@ -46,12 +46,12 @@ This project builds a web-based interactive dashboard to detect trends in financ
     - Click on __Environment__ tab on the left panel
     - Click on the ___Create (+)___ button at the bottom left corner of the screen
     - Fill in the information on the dialog box and click the ___Create___ button
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/anaconda_env.PNG" width="700px" height="500px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/anaconda_env.PNG" width="700px" height="500px" />
  1. Click on the __Home__ tab on the left panel of __Anaconda__ and do the followings:
     - Click on the ___Install___ button under __Jupyter Notebook__ to install Jupyter Notebook
     - Click on the ___Launch___ button under __Jupyter Notebook__ to launch Jupyter Notebook
     - Once the application opens on the web browser, click on __New__ and then select __Terminal__
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/Terminal_Screenshot.png" width="600px" height="170px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/Terminal_Screenshot.png" width="600px" height="170px" />
     - Inside the terminal, run __conda activate trend_dashboard__
  
 ### Application Setup and Startup
@@ -67,25 +67,25 @@ This project builds a web-based interactive dashboard to detect trends in financ
  1. In __Anaconda > Home__, click on the ___Launch___ button under __Jupyter Notebook__ to open Jupyter Notebook in the web browser.
  2. Locate and open the folder titled "uidashboard".
  3. Open and run __[05_dashboard.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/05_dashboard.ipynb)__ notebook. Then click on the URL output from the last cell to launch the app. **Note:** Sometimes the port number might already be running on your system. In that case change the port numerb to 5000 or 7000.
-    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/dash_app.PNG" width="600px" height="170px" />
+    - <img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/dash_app.PNG" width="600px" height="170px" />
     
 ## Screenshots of Application
 
 #### Journal Trends: Simple UI
 
-<img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/dashboard_front_page.PNG" width="1000px" height="600px" />
+<img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/dashboard_front_page.PNG" width="1000px" height="600px" />
 
 #### Journal Trends: Advanced UI
 
-<img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/advanced_ui.PNG" width="1000px" height="600px" />
+<img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/advanced_ui.PNG" width="1000px" height="600px" />
 
 #### Journal Trends: Diagnostics
 
-<img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/diagnostics.PNG" width="1000px" height="400px" />
+<img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/diagnostics.PNG" width="1000px" height="400px" />
 
 #### Dataset
 
-<img src="https://github.com/Deep6Lab/trending-topics-dashboard/tree/main/images/dataset.PNG" width="1000px" height="600px" />
+<img src="https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/images/dataset.PNG" width="1000px" height="600px" />
 
 
 ## App Development Guide for Developers
