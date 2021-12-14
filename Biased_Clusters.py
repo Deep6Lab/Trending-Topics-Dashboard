@@ -20,9 +20,10 @@ def get_clusters_dist(predictions):
 
 
 # get top terms
-def get_top_keywords(predicted, n_terms, terms_sparse_matrix, terms_label):
+def get_top_keywords(predicted, n_terms, terms_sparse_matrix_todense, terms_label):
+    
     terms = []
-    keywords = pd.DataFrame(terms_sparse_matrix.todense()).groupby(predicted).mean()
+    keywords = terms_sparse_matrix_todense.groupby(predicted).mean()
     for i,r in keywords.iterrows():
         terms.append(', '.join([terms_label[t] for t in np.argsort(r)[-n_terms:]]))
     return terms
@@ -146,7 +147,7 @@ def get_clusters_timeline(predictions):
     
     return clusters_timeline_str
 
-def cal_cluster_bias(df, x_vector, terms_sparse_matrix, terms_label, bias=0.1, n_clusters=15):
+def cal_cluster_bias(df, x_vector, terms_sparse_matrix_todense, terms_label, bias=0.1, n_clusters=15):
     '''
     Perform biased clusterings on the data
     
@@ -182,10 +183,9 @@ def cal_cluster_bias(df, x_vector, terms_sparse_matrix, terms_label, bias=0.1, n
         avg_silhoutte_per_cluster.append({i:tmp_silhotte})
         trend_score.append(np.mean(tmp_silhotte / bias_avg_std_year[-1]))
        
-    res=model.__dict__
 
     # get the top 20 extracted terms
-    terms = get_top_keywords(predicted, 20, terms_sparse_matrix, terms_label)
+    terms = get_top_keywords(predicted, 20, terms_sparse_matrix_todense, terms_label)
     
     # build summary data frame
     df['Topic Id'] = predicted
