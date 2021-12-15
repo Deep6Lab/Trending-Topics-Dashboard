@@ -95,8 +95,5 @@ To build the app on ___new dataset___ or rebuild the app on the ___updated datas
 1. Data preprocessing: [00_data_preprocessing.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/00_data_preprocessing.ipynb)
 1. Feature extraction: [01_features_extraction.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/01_features_extraction.ipynb)
 1. Data Normalization/Reduction: [02_feature_engineering.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/02_feature_engineering.ipynb)
-1. Biased clustering model
-   - [Biased_Clusters.py](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/Biased_Clusters.py)
-   - [Example](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/03_biased_clustering.ipynb)
 1. Model Results: [04_model_results.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/04_model_results.ipynb)
 1. Interactive Dashboard: [05_dashboard.ipynb](https://github.com/Deep6Lab/trending-topics-dashboard/blob/main/05_dashboard.ipynb)
